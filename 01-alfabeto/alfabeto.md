@@ -105,4 +105,59 @@ Nota su МОЛОКО: la O non accentata si pronuncia come A. Quindi "moloko" si
 
 ---
 
+## Frasi Pratiche: Leggere in Palestra
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| ГИМНАСТИКА | gimnastika | gim-NA-sti-ka | ginnastica |
+| СПОРТЗАЛ | sportzal | sport-ZAL | palestra |
+| ТРЕНИРОВКА | trenirovka | tryi-ni-ROF-ka | allenamento |
+| МОСТ | most | MOST | ponte (arco) |
+| КОЛЕСО | koleso | ka-LYE-so | ruota (gin.) |
+| ПРЫЖОК | pryzhok | PRY-zhok | salto |
+| САЛЬТО | sal'to | SAL'-ta | capriola |
+| ОТЖИМАНИЯ | otzhimanija | at-zhi-MA-ni-ya | flessioni |
+| ПРЕСС | press | PRESS | addominali |
+| ПЛАНКА | planka | PLAN-ka | plank |
+| БРУСЬЯ | brus'ja | BRUS'-ya | parallele |
+| ПЕРЕКЛАДИНА | perekladina | pyi-ryi-KLA-di-na | sbarra |
+| БРЕВНО | brevno | BRYEV-na | trave |
+| РАСТЯЖКА | rastyazhka | ras-TYA-zhka | stretching |
+| КОВРИК | kovrik | KOV-rik | tappetino |
+| УПРАЖНЕНИЕ | uprazhnenije | u-prazh-NYE-ni-ye | esercizio |
+| РИМ | Rim | RIM | Roma |
+| МИЛАН | Milan | mi-LAN | Milano |
+| НИКОЛО | Nikolo | ni-KO-lo | Nicolò |
+| НЕАПОЛЬ | Neapol' | nye-A-POL' | Napoli |
+| ФЛОРЕНЦИЯ | Florentsija | flo-RYEN-tsi-ya | Firenze |
+| ТУРИН | Turin | tu-RIN | Torino |
+| ВЕНЕЦИЯ | Venetsija | vye-NYET-si-ya | Venezia |
+| БОЛОНЬЯ | Bolon'ja | ba-LON'-ya | Bologna |
+| ВЕРОНА | Verona | vye-RO-na | Verona |
+| ГЕНУЯ | Genuja | gye-NOO-ya | Genova |
+| ПАЛЕРМО | Palermo | pa-LYER-mo | Palermo |
+| КАТАНИЯ | Katanija | ka-TA-ni-ya | Catania |
+| СИЦИЛИЯ | Sitsilija | sit-SI-li-ya | Sicilia |
+
+---
+
+### Dialogo breve: In palestra a Sochi
+
+**Тренер:** Здравствуй! Ты Николо? *Zdravstvuj! Ty Nikolo? — ZDRA-stvuj! TY ni-KO-lo? — Ciao! Sei Nikolo?*  
+**Николо:** Да, я из Рима. *Da, ja iz Rima. — DA ya iz RI-ma. — Sì, sono di Roma.*  
+**Тренер:** Отлично! Это твой коврик. *Otlichno! Eto tvoj kovrik. — at-LYECH-na! E-ta TVOJ KOV-rik. — Ottimo! Questo è il tuo tappetino.*  
+
+---
+
+### Dialogo: Alla reception dello sportzal
+
+**Администратор:** Добрый день! Как вас зовут? *Dobryj den'! Kak vas zovut? — DOB-ryj DYEN'! KAK vas za-VUT? — Buongiorno! Come si chiama?*  
+**Николо:** Меня зовут Николо. Я из Милана. *Menja zovut Nikolo. Ja iz Milana. — mi-NYA za-VUT ni-KO-lo. YA iz mi-LA-na. — Mi chiamo Nicolò. Sono di Milano.*  
+**Администратор:** Очень приятно! Вы гимнаст? *Ochen' prijatno! Vy gimnast? — O-chin pri-YAT-na! VY gim-NAST? — Molto piacere! È un ginnasta?*  
+**Николо:** Да, я люблю гимнастику и планку. *Da, ja ljublju gimnastiku i planku. — DA ya lyub-LYU gim-NA-sti-ku i PLAN-ku. — Sì, amo la ginnastica e la plank.*  
+**Администратор:** Супер! Наш спортзал большой. *Super! Nash sportzal bol'shoj. — SU-pyor! NASH sport-ZAL bal-SHOJ. — Super! La nostra palestra è grande.*  
+**Николо:** Я вижу брусья и перекладину. *Ja vizhu brus'ja i perekladimu. — YA VI-zhu BRUS'-ya i pyi-ryi-KLA-di-nu. — Vedo le parallele e la sbarra.*  
+
+---
+
 [Torna all'indice](../README.md) | [Prossimo: Fonetica](../02-fonetica/fonetica.md)

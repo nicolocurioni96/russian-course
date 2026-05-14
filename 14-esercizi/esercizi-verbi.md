@@ -104,6 +104,67 @@ Soluzioni:
 4. читал (imperfettivo - esperienza generica, "l'hai mai letta?")
 5. написал (perfettivo - azione completata con risultato)
 
+
+---
+
+## Esercizio 6: Aspetto verbale nello sport
+
+Scegli l'aspetto corretto (imperfettivo o perfettivo) per queste situazioni sportive:
+
+1. "Mi alleno ogni giorno" → ?
+2. "Mi sono allenato ieri (finito)" → ?
+3. "Stavo facendo l'esercizio (processo)" → ?
+4. "Ho fatto il ponte (completato)" → ?
+5. "Mi allenerò domani a Sochi" → ?
+
+Soluzioni:
+
+1. Imperfettivo (azione abituale): Я тренируюсь каждый день
+2. Perfettivo (azione completata): Я потренировался вчера
+3. Imperfettivo (azione in corso): Я делал упражнение
+4. Perfettivo (risultato): Я сделал мост
+5. Perfettivo (futuro con risultato): Я потренируюсь завтра в Сочи
+
+---
+
+## Esercizio 7: Traduci i dialoghi sportivi
+
+Traduci in russo:
+
+1. Nikolo fa il ponte (in corso) → ?
+2. Nikolo ha fatto il ponte (finito) → ?
+3. Lui lavora come ginnasta → ?
+4. Noi andiamo a Roma per una settimana → ?
+5. Lei pensa all'allenamento → ?
+
+Soluzioni:
+
+1. Николо делает мост (imperfettivo)
+2. Николо сделал мост (perfettivo)
+3. Он работает гимнастом
+4. Мы едем в Рим на неделю
+5. Она думает о тренировке
+
+---
+
+## Esercizio 8: Completa con il verbo giusto (aspetto)
+
+Scegli il verbo corretto:
+
+1. Я ___ мост сейчас. (делаю / сделал)
+2. Он ___ упражнение идеально. (делает / сделал)
+3. Мы ___ каждый день в спортзале. (тренируемся / потренировались)
+4. Ты ___ в Сочи завтра? (тренируешься / потренируешься)
+5. Она ___ планку пять минут. (делала / сделала)
+
+Soluzioni:
+
+1. делаю (imperfettivo - azione in corso al presente)
+2. сделал (perfettivo - risultato completato)
+3. тренируемся (imperfettivo - azione abituale)
+4. потренируешься (perfettivo - futuro con risultato)
+5. делала (imperfettivo - azione durativa nel passato)
+
 ---
 
 [Torna all'indice](../README.md) | [Precedente: Esercizi Casi](esercizi-casi.md)

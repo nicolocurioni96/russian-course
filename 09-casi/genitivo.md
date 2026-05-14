@@ -83,6 +83,38 @@ In russo "avere" si esprime con la struttura "presso di me c'e":
 
 Nota: dopo У, i pronomi cambiano forma: меня, тебя, него, неё, нас, вас, них.
 
+
+---
+
+## Frasi pratiche: Attrezzi e allenamento
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| У меня нет коврика | U menja net kovrika | u mi-NYA NYET kov-RI-ka | Non ho il tappetino |
+| У тренера нет времени | U trenera net vremeni | u tri-NYE-ra NYET VRYE-mi-ni | L'allenatore non ha tempo |
+| Здесь нет воды | Zdes' net vody | ZDYES NYET va-DY | Qui non c'è acqua |
+| После тренировки я отдыхаю | Posle trenirovki ja otdykhaiu | PO-slye tri-ni-ROF-ki ya at-dy-KHA-yu | Dopo l'allenamento riposo |
+| До спортзала десять минут | Do sportzala desjat' minut | DA sport-ZA-la DYE-syat' mi-NUT | Fino alla palestra dieci minuti |
+| Это коврик Николо | Eto kovrik Nikolo | E-ta KOV-rik ni-KO-lo | Questo è il tappetino di Nikolo |
+| У нас нет сил | U nas net sil | u NAS NYET SIL | Non abbiamo forze |
+| Без коврика трудно | Bez kovrika trudno | BYEZ kov-RI-ka TROOD-na | Senza tappetino è difficile |
+| После прыжка отдыхай | Posle pryzhka otdykhai | PO-slye PRY-zhka at-dy-KHAI | Dopo il salto riposa |
+| До Москвы далеко | Do Moskvy daleko | DA mask-VY da-lye-KO | Fino a Mosca è lontano |
+
+### Dialogo breve: Prima della trenirovka
+
+**Николо:** У тебя есть коврик? *U tebja est' kovrik? — u ti-BYA YEST KOV-rik — Hai il tappetino?*  
+**Друг:** Нет, у меня нет коврика. *Net, u menja net kovrika. — NYET u mi-NYA NYET kov-RI-ka — No, non ho il tappetino.*  
+
+### Dialogo: Dopo l'allenamento a Милане
+
+**Николо:** У тебя есть вода? *U tebja est' voda? — u ti-BYA YEST va-DA — Hai acqua?*  
+**Друг:** Нет, здесь нет воды. *Net, zdes' net vody. — NYET ZDYES NYET va-DY — No, qui non c'è acqua.*  
+**Николо:** У меня нет сил после тренировки. *U menja net sil posle trenirovki. — u mi-NYA NYET SIL PO-slye tri-ni-ROF-ki — Non ho forze dopo l'allenamento.*  
+**Друг:** До дома пять минут. *Do doma pjat' minut. — DA DO-ma PYAT mi-NUT — Fino a casa cinque minuti.*  
+**Николо:** Хорошо, пойдём! *Khorosho, pojdjom! — kha-ra-SHO paj-DYOM — Bene, andiamo!*  
+**Друг:** Это спортзал нового клуба. *Eto sportzal novogo kluba. — E-ta SPORT-zal NO-va-va KLU-ba — Questa è la palestra del nuovo club.*  
+
 ---
 
 [Torna all'indice](../README.md) | [Precedente: Nominativo](nominativo.md) | [Prossimo: Dativo](dativo.md)

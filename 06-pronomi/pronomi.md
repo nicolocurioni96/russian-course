@@ -103,4 +103,45 @@ Nota: ЧТО si scrive con Ч ma si pronuncia "SHTO"! E una delle eccezioni piu 
 
 ---
 
+## Frasi Pratiche: Pronomi in Palestra
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| Это мой коврик. | Eto moj kovrik. | E-ta MOJ KOV-rik. | Questo è il mio tappetino. |
+| Где твоя перекладина? | Gde tvoja perekladina? | GDYE tva-YA pyi-ryi-KLA-di-na? | Dov'è la tua sbarra? |
+| Его брусья новые. | Ego brus'ja novyje. | yi-VO BRUS'-ya NO-vy-ye. | Le sue parallele sono nuove. |
+| Её планка сильная. | Jejo planka sil'naja. | yi-YO PLAN-ka SIL'-na-ya. | La sua plank è forte. |
+| Наш спортзал в Москве. | Nash sportzal v Moskve. | NASH sport-ZAL V MASK-vye. | La nostra palestra è a Mosca. |
+| Ваш тренер из Парижа? | Vash trener iz Parizha? | VASH trye-NYER iz PA-ri-zha? | Il vostro allenatore è di Parigi? |
+| Их упражнения трудные. | Ich uprazhnenija trudnyje. | ICH u-prazh-NYE-ni-ya TRUD-ny-ye. | I loro esercizi sono difficili. |
+| Этот мост трудный. | Etot most trudnyj. | E-tat MOST TRUD-nyj. | Questo arco è difficile. |
+| Эта растяжка важная. | Eta rastyazhka vazhnaja. | E-ta ras-TYA-zhka VAZH-na-ya. | Questo stretching è importante. |
+| Это моё бревно. | Eto mojo brevno. | E-ta ma-YO BRYEV-na. | Questa è la mia trave. |
+
+---
+
+### Dialogo breve: Dimostrativi
+
+**Тренер:** Этот коврик твой? *Etot kovrik tvoj? — E-tat KOV-rik TVOJ? — Questo tappetino è tuo?*  
+**Николо:** Да, это мой коврик. *Da, eto moj kovrik. — DA, E-ta MOJ KOV-rik. — Sì, questo è il mio tappetino.*  
+**Тренер:** А эта перекладина? *A eta perekladina? — A E-ta pyi-ryi-KLA-di-na? — E questa sbarra?*  
+**Николо:** Нет, эта перекладина не моя. *Net, eta perekladina ne moja. — NYET, E-ta pyi-ryi-KLA-di-na NYE ma-YA. — No, questa sbarra non è mia.*  
+
+---
+
+### Dialogo: Possessivi a Londra
+
+**Иван:** Николо, чей это коврик? *Nikolo, chej eto kovrik? — ni-KO-lo, CHYEJ E-ta KOV-rik? — Nicolò, di chi è questo tappetino?*  
+**Николо:** Это мой коврик. Я из Болоньи. *Eto moj kovrik. Ja iz Bolon'i. — E-ta MOJ KOV-rik. YA iz ba-LON'-yi. — È il mio tappetino. Sono di Bologna.*  
+**Иван:** А где твои брусья? *A gde tvoi brus'ja? — A GDYE tva-I BRUS'-ya? — E dove sono le tue parallele?*  
+**Николо:** Мои брусья там, возле твоей планки. *Moi brus'ja tam, vozle tvoej planki. — ma-I BRUS'-ya TAM, VOZ-lye tva-YEJ PLAN-ki. — Le mie parallele sono lì, vicino alla tua plank.*  
+**Иван:** Понятно. А это бревно — её? *Ponjatno. A eto brevno — jejo? — PON-yat-na. A E-ta BRYEV-na — yi-YO? — Capisco. E questa trave è sua (di lei)?*  
+**Николо:** Нет, это наше бревно. Мы тренируемся вместе. *Net, eto nashe brevno. My trenirujemsja vmeste. — NYET, E-ta NA-she BRYEV-na. MY tryi-ni-ROO-yem-sya VMYE-stye. — No, è la nostra trave. Ci alleniamo insieme.*  
+**Иван:** А их тренер где? *A ich trener gde? — A ICH trye-NYER GDYE? — E dove è il loro allenatore?*  
+**Николо:** Их тренер в Берлине сегодня. *Ich trener v Berline segodnja. — ICH trye-NYER V BYER-li-nye si-VOD-nya. — Il loro allenatore è a Berlino oggi.*  
+**Иван:** Я вижу. Эти упражнения твои? *Ja vizhu. Eti uprazhnenija tvoi? — YA VI-zhu. E-ti u-prazh-NYE-ni-ya tva-I? — Vedo. Questi esercizi sono tuoi?*  
+**Николо:** Да, это мои упражнения на сальто. *Da, eto moi uprazhnenija na sal'to. — DA, E-ta ma-I u-prazh-NYE-ni-ya na SAL'-ta. — Sì, sono i miei esercizi di capriola.*  
+
+---
+
 [Torna all'indice](../README.md) | [Precedente: Sostantivi](../05-sostantivi-genere/sostantivi-genere.md) | [Prossimo: Verbi Base](../07-verbi-base/verbi-base.md)

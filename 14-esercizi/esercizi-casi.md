@@ -98,6 +98,81 @@ Soluzioni:
 3. в магазин (accusativo - maschile inanimato = nominativo)
 4. в магазине (prepositivo)
 
+
+---
+
+## Esercizio 6: Casi nello sport
+
+Identifica il caso della parola sottolineata nelle frasi sportive:
+
+1. Николо делает **мост** → ?
+2. У меня нет **коврика** → ?
+3. Я иду в **спортзал** → ?
+4. Я тренируюсь с **другом** → ?
+5. Она на **бревне** → ?
+6. Мне нравится **гимнастика** → ?
+7. Я дам мяч **другу** → ?
+8. После **тренировки** я ем → ?
+
+Soluzioni:
+
+1. Accusativo (oggetto diretto: fare COSA?)
+2. Genitivo (dopo НЕТ: non ho DI COSA?)
+3. Accusativo (direzione: andare DOVE?)
+4. Strumentale (con CHI?)
+5. Prepositivo (luogo: essere DOVE?)
+6. Nominativo (soggetto: COSA piace?)
+7. Dativo (complemento di termine: dare A CHI?)
+8. Genitivo (dopo ПОСЛЕ: dopo DI COSA?)
+
+---
+
+## Esercizio 7: Traduci le frasi sportive
+
+Traduci in russo usando il caso corretto:
+
+1. Nikolo fa il ponte → ?
+2. Non ho il tappetino → ?
+3. Vado in palestra → ?
+4. Mi alleno con l'amico → ?
+5. Lei è sulla trave → ?
+6. Dopo l'allenamento riposo → ?
+7. Chiamami la sera → ?
+8. Lui lavora come ginnasta → ?
+
+Soluzioni:
+
+1. Николо делает мост
+2. У меня нет коврика
+3. Я иду в спортзал
+4. Я тренируюсь с другом
+5. Она на бревне
+6. После тренировки я отдыхаю
+7. Позвони мне вечером
+8. Он работает гимнастом
+
+---
+
+## Esercizio 8: Completa il dialogo sportivo
+
+Completa con la forma corretta tra parentesi:
+
+**Николо:** Я иду в (спортзал / спортзале / спортзала).  
+**Друг:** А я уже (в спортзал / в спортзале / в спортзалу).  
+**Николо:** У меня нет (коврик / коврика / коврику).  
+**Друг:** Я тренируюсь (с друг / с другом / с друге).  
+**Николо:** Я дам мяч (друг / другу / другом).  
+**Друг:** После (тренировка / тренировки / тренировке) пойдём в (Рим / Риме / Риму).
+
+Soluzioni:
+
+1. спортзал (accusativo - direzione)
+2. в спортзале (prepositivo - luogo)
+3. коврика (genitivo - dopo НЕТ)
+4. с другом (strumentale - con chi)
+5. другу (dativo - dare a chi)
+6. тренировки (genitivo - dopo ПОСЛЕ), Рим (accusativo - direzione, maschile inanimato = nominativo)
+
 ---
 
 [Torna all'indice](../README.md) | [Precedente: Esercizi Alfabeto](esercizi-alfabeto.md) | [Prossimo: Esercizi Verbi](esercizi-verbi.md)

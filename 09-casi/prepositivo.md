@@ -70,6 +70,40 @@ Questa e una distinzione fondamentale:
 | Он идёт на работу | Он на работе | Va al lavoro / E al lavoro |
 | Мы едем в Россию | Мы в России | Andiamo in Russia / Siamo in Russia |
 
+
+---
+
+## Frasi pratiche: Dove sono? Di cosa parlo?
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| Я в спортзале | Ja v sportzale | YA f SPORT-za-lye | Sono in palestra |
+| Он думает о тренировке | On dumaet o trenirovke | ON DU-ma-yet a tri-ni-ROF-kye | Lui pensa all'allenamento |
+| Мы говорим о гимнастике | My govorim o gimnastike | MY ga-va-RIM a gim-NAS-ti-kye | Parliamo di ginnastica |
+| Она на бревне | Ona na brevne | a-NA na BRYEV-nye | Lei è sulla trave |
+| Тренер на перекладине | Trener na perkladine | TRE-nyer na pyer-klad-DI-nye | L'allenatore è alla sbarra |
+| Я живу в Милане | Ja zhivu v Milane | YA zhi-VU v mi-LA-nye | Vivo a Milano |
+| Мы в Санкт-Петербурге | My v Sankt-Peterburge | MY f SANKT-pi-tyer-BUR-gye | Siamo a San Pietroburgo |
+| Они думают о сальто | Oni dumajut o sal'to | a-NI DU-ma-yut a SAL-ta | Loro pensano al salto mortale |
+| Книга о спорте лежит на столе | Kniga o sporte lezhit na stole | KNI-ga a SPORT-tye li-ZHIT na STA-lye | Il libro sullo sport è sul tavolo |
+| На брусьях висит полотенце | Na brus'jakh visit polotence | na BRUS-yakh VI-sit pa-la-TYEN-tsye | Sulle parallele è appeso l'asciugamano |
+
+### Dialogo breve: Dove sei?
+
+**Николо:** Где ты? *Gde ty? — GDYE ty — Dove sei?*  
+**Друг:** Я в спортзале. *Ja v sportzale. — YA f SPORT-za-lye — Sono in palestra.*  
+
+### Dialogo: A Санкт-Петербурге
+
+**Николо:** Где ты сейчас? *Gde ty sejchas? — GDYE ty SYEY-chas — Dove sei adesso?*  
+**Друг:** Я в Санкт-Петербурге. *Ja v Sankt-Peterburge. — YA f SANKT-pi-tyer-BUR-gye — Sono a San Pietroburgo.*  
+**Николо:** Что ты делаешь там? *Chto ty delaesh' tam? — SHTO ty DYE-la-yesh TAM — Cosa fai lì?*  
+**Друг:** Я в спортзале. О чём ты думаешь? *Ja v sportzale. O chjom ty dumaesh'? — YA f SPORT-za-lye a CHYOM ty DU-ma-yesh — Sono in palestra. A cosa pensi?*  
+**Николо:** Я думаю о тренировке. *Ja dumaju o trenirovke. — YA DU-ma-yu a tri-ni-ROF-kye — Penso all'allenamento.*  
+**Друг:** Мы говорим о гимнастике здесь. *My govorim o gimnastike zdes'. — MY ga-va-RIM a gim-NAS-ti-kye ZDYES — Parliamo di ginnastica qui.*  
+**Николо:** Она на бревне? *Ona na brevne? — a-NA na BRYEV-nye — Lei è sulla trave?*  
+**Друг:** Да, она на бревне в Милане. *Da, ona na brevne v Milane. — DA a-NA na BRYEV-nye v mi-LA-nye — Sì, lei è sulla trave a Milano.*  
+
 ---
 
 [Torna all'indice](../README.md) | [Precedente: Strumentale](strumentale.md) | [Prossimo: Vocabolario](../10-vocabolario/famiglia.md)

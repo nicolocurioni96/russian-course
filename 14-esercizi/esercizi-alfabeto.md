@@ -99,6 +99,37 @@ Collega ogni lettera al suono corretto:
 
 Soluzioni: Ж-b, Ц-a, Ч-d, Ш-c, Щ-e
 
+
+---
+
+## Esercizio 6: Leggi i termini di ginnastica
+
+Prova a leggere queste parole legate alla ginnastica e al fitness:
+
+1. ГИМНАСТИКА
+2. СПОРТЗАЛ
+3. ТРЕНИРОВКА
+4. МОСТ
+5. КОЛЕСО
+6. ПРЫЖОК
+7. САЛЬТО
+8. ОТЖИМАНИЯ
+9. ПЛАНКА
+10. БРУСЬЯ
+
+Soluzioni:
+
+1. gim-NAS-ti-ka (ginnastica)
+2. SPORT-zal (palestra)
+3. tri-ni-ROF-ka (allenamento)
+4. MOST (ponte)
+5. ka-LYE-sa (ruota)
+6. PRY-zhok (salto)
+7. SAL-ta (salto mortale)
+8. at-zhi-MA-ni-ya (flessioni)
+9. PLAN-ka (plancia)
+10. BRUS'-ya (parallele)
+
 ---
 
 [Torna all'indice](../README.md) | [Prossimo: Esercizi Casi](esercizi-casi.md)

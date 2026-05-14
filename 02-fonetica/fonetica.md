@@ -105,4 +105,43 @@ Il segno duro Ъ e raro. Separa la consonante dalla vocale e si trova principalm
 
 ---
 
+## Frasi Pratiche: Pronuncia Sportiva
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| СПОРТСМЕН | sportsmen | sport-SMYEN | atleta |
+| ГИМНАСТИКА | gimnastika | gim-NA-sti-ka | ginnastica |
+| ТРЕНИРОВКА | trenirovka | tryi-ni-ROF-ka | allenamento |
+| МОСКВА | Moskva | mask-VA | Mosca |
+| СОЧИ | Sochi | SO-chi | Sochi |
+| САНКТ-ПЕТЕРБУРГ | Sankt-Peterburg | sankt-pyi-tyer-BURK | San Pietroburgo |
+| КАЗАНЬ | Kazan' | ka-ZAN' | Kazan' |
+| ЕКАТЕРИНБУРГ | Jekaterinburg | yi-ka-tyi-RIN-burk | Ekaterinburg |
+| ПАРИЖ | Parizh | PA-rizh | Parigi |
+| ЛОНДОН | London | LON-dan | Londra |
+| БЕРЛИН | Berlin | BYER-lin | Berlino |
+| ТОКИО | Tokio | TO-ki-yo | Tokyo |
+| НЬЮ-ЙОРК | N'ju-Jork | N'YU-YORK | New York |
+
+---
+
+### Dialogo breve: Riduzione vocalica
+
+**Тренер:** Где город? *Gde gorod? — GDYE GO-rat? — Dov'è la città?*  
+**Николо:** Это Москва. Я из Неаполя. *Eto Moskva. Ja iz Neapolja. — E-ta mask-VA. YA iz nye-A-pal-ya. — È Mosca. Sono di Napoli.*  
+**Тренер:** Хорошо! *Chorosho! — cha-ra-SHO! — Bene!*  
+
+---
+
+### Dialogo: Consonanti dure и morbide
+
+**Николо:** Где твоя тренировка? *Gde tvoja trenirovka? — GDYE tva-YA tryi-ni-ROF-ka? — Dov'è il tuo allenamento?*  
+**Тренер:** В спортзале в Казани. *V sportzale v Kazani. — V sport-ZA-lye v ka-ZA-ni. — Nella palestra a Kazan.*  
+**Николо:** А в Сочи? Там тоже гимнастика? *A v Sochi? Tam tozhe gimnastika? — A v SO-chi? TAM TO-zhe gim-NA-sti-ka? — E a Sochi? C'è anche ginnastica lì?*  
+**Тренер:** Да, но зима холодная. *Da, no zima kholodnaja. — DA no ZI-ma kha-lad-NA-ya. — Sì, ma l'inverno è freddo.*  
+**Николо:** Я люблю прыжки и мост. *Ja ljublju pryzhki i most. — YA lyub-LYU PRY-zhki i MOST. — Amo i salti e l'arco.*  
+**Тренер:** Отлично! Ты спортсмен. *Otlichno! Ty sportsmen. — at-LYECH-na! TY sport-SMYEN. — Ottimo! Sei un atleta.*  
+
+---
+
 [Torna all'indice](../README.md) | [Precedente: Alfabeto](../01-alfabeto/alfabeto.md) | [Prossimo: Numeri](../03-numeri/numeri.md)

@@ -53,4 +53,38 @@
 
 ---
 
+## Frasi Pratiche: Viaggio per una Gara
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| Я лечу в Москву на соревнования по гимнастике | Ja lechu v Moskvu na sorevnovanija po gimnastike | YA LYE-chu v MASK-vu na sa-ryev-na-VA-ni-ya pa gim-NAS-ti-kye | Volo a Mosca per una gara di ginnastica |
+| Есть ли в отеле спортзал? | Est' li v otele sportzal? | YEST li v a-TYE-lye SPORT-zal | C'è una palestra in hotel? |
+| Где ближайший спортзал в центре? | Gde blizhajshij sportzal v centre? | GDYE bli-ZHAJ-shij SPORT-zal v TSEN-trye | Dov'è la palestra più vicina in centro? |
+| Мне нужен билет до Санкт-Петербурга | Mne nuzhen bilet do Sankt-Peterburga | MNYE NU-zhen bi-LYET da SANKT-py-tyer-BUR-ga | Ho bisogno di un biglietto per San Pietroburgo |
+| Мой рейс из Рима задерживается | Moj rejs iz Rima zaderzhivaetsja | MOJ RYEJS iz RI-ma za-DYER-zhi-va-ye-tsa | Il mio volo da Roma è in ritardo |
+| Я ищу отель с ковриками для йоги | Ja ischu otel' s kovrikami dlja jogi | YA ISH-chu a-TYEL' s kov-RI-ka-mi DLYA YO-gi | Cerco un hotel con tappetini per yoga |
+| Как доехать до спортзала из отеля? | Kak dojekhat' do sportzala iz otelja? | KAK da-YE-khat' da SPORT-za-la iz a-TYE-lya | Come si arriva in palestra dall'hotel? |
+| В Париже много красивых мостов | V Parizhe mnogo krasivykh mostov | v PA-ri-zhe MNO-ga kra-SI-vykh MO-staf | A Parigi ci sono molti ponti bellissimi |
+
+---
+
+### Dialogo breve: Alla reception dell'hotel
+
+**Администратор:** Добро пожаловать! Какой номер? *Dobro pozhalovat'! Kakoj nomer? — dab-RO pa-ZHA-la-vat ka-KOJ NO-mir — Benvenuto! Quale stanza?*  
+**Николо:** Номер тридцать два. Есть ли спортзал в отеле? *Nomer tridtsat' dva. Est' li sportzal v otele? — NO-mir TRIT-tsat' DVA YEST li SPORT-zal v a-TYE-lye — Stanza trentadue. C'è una palestra in hotel?*  
+**Администратор:** Да, на третьем этаже. *Da, na tret'em etazhe. — DA na TRYET'-yem e-TA-zhe — Sì, al terzo piano.*  
+
+---
+
+### Dialogo: In viaggio per la gara
+
+**Тренер:** Когда мы прилетаем в Москву? *Kogda my priletaem v Moskvu? — kag-DA MY pri-lye-TA-yem v MASK-vu — Quando arriviamo a Mosca?*  
+**Николо:** Завтра утром. Рейс из Милана. *Zavtra utrom. Rejs iz Milana. — ZAF-tra U-tram RYEJS iz MI-la-na — Domani mattina. Volo da Milano.*  
+**Тренер:** Ты нашёл отель с ковриками? *Ty nashjol otel' s kovrikami? — TY nash-SHOL a-TYEL' s kov-RI-ka-mi — Hai trovato un hotel con tappetini?*  
+**Николо:** Да, и там есть спортзал рядом. *Da, i tam est' sportzal rjadom. — DA i TAM YEST SPORT-zal RYA-dam — Sì, e c'è una palestra vicina.*  
+**Тренер:** Отлично. Завтра важный день — соревнования по гимнастике. *Otlichno. Zavtra vazhnyj den' — sorevnovanija po gimnastike. — at-LYECH-na ZAF-tra VAZH-nyj DYEN sa-ryev-na-VA-ni-ya pa gim-NAS-ti-kye — Ottimo. Domani è un giorno importante — la gara di ginnastica.*  
+**Николо:** Я готов! После прилёта хочу растяжку. *Ja gotov! Posle priljota khochu rastiazhku. — YA ga-TOF POS-lye pri-LYO-ta KHO-chu ras-TYAZH-ku — Sono pronto! Dopo l'arrivo voglio fare stretching.*  
+
+---
+
 [Torna all'indice](../README.md)

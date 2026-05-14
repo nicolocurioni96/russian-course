@@ -100,4 +100,38 @@
 
 ---
 
+## Frasi Pratiche: Dieta dell'Atleta
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| После тренировки я ем много белка | Posle trenirovki ja jem mnogo belka | POS-lye try-ni-ROF-ki YA yem MNO-ga BYEL-ka | Dopo l'allenamento mangio molte proteine |
+| Макароны с курицей — мой любимый обед | Makarony s kuritsej — moj ljubimyj obed | ma-ka-RO-ny s ku-RI-tsey — MOJ LYU-bi-myj a-BYED | Pasta con pollo è il mio pranzo preferito |
+| Я не ем сахар | Ja ne jem sachar | YA nyem SA-khar | Non mangio zucchero |
+| Это хороший перекус перед спортзалом | Eto khoroshij perekus pered sportzalom | E-ta kha-RO-shij pi-ri-KUS PYE-ryed SPORT-za-lam | Questo è un buono spuntino prima della palestra |
+| Сколько калорий в этом блюде? | Skol'ko kalorij v etom bljude? | SKOL-ka ka-LO-rij v E-tam BLYU-dye | Quante calorie ha questo piatto? |
+| Я пью много воды | Ja p'ju mnogo vody | YA PYU MNO-ga VO-dy | Bevo molta acqua |
+| Это свежее мясо? | Eto svezhee mjaso? | E-ta SVYE-zhe-ye MYA-sa | Questa è carne fresca? |
+| Дайте, пожалуйста, салат без масла | Dajte, pozhalujsta, salat bez masla | DAJ-tye pa-ZHA-lu-sta sa-LAT BYEZ MAS-la | Mi dia insalata senza olio, per favore |
+
+---
+
+### Dialogo breve: Al supermercato
+
+**Продавец:** Что вам нужно? *Chto vam nuzhno? — SHTO VAM NUZH-na — Di cosa ha bisogno?*  
+**Николо:** Мне нужна курица и макароны. *Mne nuzhna kuritsa i makarony. — MNYE NUZH-na KU-ri-tsa i ma-ka-RO-ny — Ho bisogno di pollo e pasta.*  
+**Продавец:** Это для ужина? *Eto dlja uzhina? — E-ta DLYA u-ZHI-na — È per cena?*  
+**Николо:** Нет, это мой обед после тренировки. *Net, eto moj obed posle trenirovki. — NYET E-ta MOJ a-BYED POS-lye try-ni-ROF-ki — No, è il mio pranzo dopo l'allenamento.*  
+
+---
+
+### Dialogo: Dopo l'allenamento
+
+**Официант:** Что будете заказывать? *Chto budete zakazyvat'? — SHTO bu-DYE-tye za-KA-zy-vat — Cosa desidera ordinare?*  
+**Николо:** Мне, пожалуйста, макароны с курицей и салат. *Mne, pozhalujsta, makarony s kuritsej i salat. — MNYE pa-ZHA-lu-sta ma-ka-RO-ny s ku-RI-tsey i sa-LAT — Per me pasta con pollo e insalata, per favore.*  
+**Официант:** Хотите что-нибудь выпить? *Khotite chto-nibud' vypit'? — kha-TEE-tye SHTO-ni-bud' VY-pit — Vuole qualcosa da bere?*  
+**Николо:** Воду без газа. Я не пью сахар. *Vodu bez gaza. Ja ne p'ju sachar. — VO-du BYEZ GA-za YA NYE pyu SA-khar — Acqua naturale. Non bevo zucchero.*  
+**Официант:** Отличный выбор для атлета! *Otlichnyj vybor dlja atleta! — at-LYECH-nyj VY-bor DLYA at-LYE-ta — Ottima scelta per un atleta!*  
+
+---
+
 [Torna all'indice](../README.md)

@@ -101,4 +101,36 @@ Per dire "a gennaio" si usa В + prepositivo: в январе (v janvarje).
 
 ---
 
+## Frasi Pratiche: Tempo, Meteo e Fitness
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| Я тренируюсь в понедельник утром | Ja trenirujus' v ponedel'nik utrom | YA try-ni-ROO-yus' v pa-ni-DYEL-nik U-tram | Mi alleno lunedì mattina |
+| Зимой я бегаю в парке | Zimoj ja begaju v parke | ZI-moj YA bye-GA-yu v PAR-kye | D'inverno corro nel parco |
+| Какая погода для пробежки? | Kakaja pogoda dlja probezhki? | ka-KA-ya pa-GO-da DLYA pra-BYESH-ki | Che tempo fa per la corsa? |
+| Сегодня дождь, тренировка дома | Segodnja dozhd', trenirovka doma | si-VOD-nya DOSHT try-ni-ROF-ka DO-ma | Oggi piove, allenamento a casa |
+| Летом я плаваю в Сочи | Letom ja plavaju v Sochi | LYE-tam YA pla-VA-yu v SO-chi | D'estate nuoto a Sochi |
+| Завтра будет снег | Zavtra budet sneg | ZAF-tra BU-dyet SNYEK | Domani nevicherà |
+| Весной начинается сезон гимнастики | Vesnoj nachinaetsja sezon gimnastiki | vyes-NOY na-chi-NA-ye-tsa SYE-zon gim-NAS-ti-ki | In primavera inizia la stagione di ginnastica |
+| Вечером я иду в спортзал | Vecherom ja idu v sportzal | VYE-chi-ram YA i-DU v SPORT-zal | Di sera vado in palestra |
+
+---
+
+### Dialogo breve: Piacere e allenamento
+
+**Друг:** Ты идёшь бегать завтра? *Ty idjosh' begat' zavtra? — TY i-DYOSH' bye-GAT' ZAF-tra — Vai a correre domani?*  
+**Николо:** Нет, будет дождь. Я тренируюсь дома. *Net, budet dozhd'. Ja trenirujus' doma. — NYET BU-dyet DOSHT YA try-ni-ROO-yus' DO-ma — No, pioverà. Mi alleno a casa.*  
+
+---
+
+### Dialogo: Inverno a Москва
+
+**Коллега:** Какая сегодня погода в Москве? *Kakaja segodnja pogoda v Moskve? — ka-KA-ya si-VOD-nya pa-GO-da v MASK-vye — Com'è il tempo oggi a Mosca?*  
+**Николо:** Холодно, минус десять градусов. *Kholodno, minus desjat' gradusov. — kha-LAD-na MEE-nus DYE-syat' gra-DU-saf — Freddo, meno dieci gradi.*  
+**Коллега:** Ты всё равно идёшь в спортзал? *Ty vsjo ravno idjosh' v sportzal? — TY FSYO RAV-na i-DYOSH' v SPORT-zal — Ci vai comunque in palestra?*  
+**Николо:** Конечно! Зимние тренировки очень важны. *Konechno! Zimnie trenirovki ochen' vazhny. — ka-NYETCH-na ZIM-ni-ye try-ni-ROF-ki O-chin VAZH-ny — Certo! Gli allenamenti invernali sono molto importanti.*  
+**Коллега:** Ты сильный! Я предпочитаю бегать весной. *Ty sil'nyj! Ja predpochitaju begat' vesnoj. — TY SEEL'-nyj YA pred-pa-chi-TA-yu bye-GAT' vyes-NOY — Sei forte! Io preferisco correre in primavera.*  
+
+---
+
 [Torna all'indice](../README.md)

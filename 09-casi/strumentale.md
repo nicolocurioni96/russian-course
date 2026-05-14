@@ -81,6 +81,38 @@ Domanda chiave: КЕМ? (kem? = con chi?) / ЧЕМ? (chem? = con cosa?)
 | под столом | pod stolom | pad sta-LOM | sotto il tavolo |
 | между нами | mezhdu nami | MYEZH-du NA-mi | tra di noi |
 
+
+---
+
+## Frasi pratiche: Con chi? Con cosa?
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| Я тренируюсь с другом | Ja trenirujus' s drugom | YA tri-ni-ROO-yus' z DRU-gam | Mi alleno con l'amico |
+| Я пишу ручкой | Ja pishu ruchkoj | YA pi-SHU RUCH-kaj | Scrivo con la penna |
+| Я еду автобусом в спортзал | Ja edu avtobusom v sportzal | YA YE-du af-TO-bu-sam f SPORT-zal | Vado in autobus in palestra |
+| Он работает гимнастом | On rabotaet gimnastom | ON ra-BO-ta-yet gim-NAS-tam | Lui lavora come ginnasta |
+| Я делаю планку на коврике | Ja delaiu planku na kovrike | YA DYE-la-yu PLAN-ku na KOV-ri-kye | Faccio la plancia sul tappetino |
+| Мы едем поездом в Турин | My edem poezdom v Turin | MY YE-dyem po-YEZ-dam v tu-RIN | Andiamo in treno a Torino |
+| Она растягивается на брусьях | Ona rastjagivaetsja na brus'jakh | a-NA ras-tya-GI-va-yet-sya na BRUS-yakh | Lei si allunga alle parallele |
+| Я занимаюсь с тренером | Ja zanimajus' s trenerom | YA za-ni-MA-yus' z TRE-nye-ram | Mi alleno con l'allenatore |
+| Перед зеркалом стоит коврик | Pered zerkalom stoit kovrik | PYE-rid ZYER-ka-lam STO-it KOV-rik | Davanti allo specchio c'è il tappetino |
+| Между нами — бревно | Mezhdu nami — brevno | MYEZH-du NA-mi — BRYEV-na | Tra noi c'è la trave |
+
+### Dialogo breve: Il mezzo per la palestra
+
+**Николо:** Я еду автобусом в спортзал. *Ja edu avtobusom v sportzal. — YA YE-du af-TO-bu-sam f SPORT-zal — Vado in autobus in palestra.*  
+**Друг:** А я еду с братом на метро. *A ja edu s bratom na metro. — a YA YE-du z BRA-tam na MYE-tra — E io vado con mio fratello in metro.*  
+
+### Dialogo: In palestra a Турине
+
+**Николо:** С кем ты тренируешься? *S kem ty treniruesh'sja? — s KYEM ty tri-ni-ROO-yesh-sya — Con chi ti alleni?*  
+**Друг:** Я тренируюсь с другом из Милана. *Ja trenirujus' s drugom iz Milana. — YA tri-ni-ROO-yus' z DRU-gam iz mi-LA-na — Mi alleno con un amico di Milano.*  
+**Николо:** Чем ты пишешь? *Chem ty pishesch'? — CHEM ty PI-shyesh — Con cosa scrivi?*  
+**Друг:** Я пишу ручкой. *Ja pishu ruchkoj. — YA pi-SHU RUCH-kaj — Scrivo con la penna.*  
+**Николо:** Он работает гимнастом? *On rabotaet gimnastom? — ON ra-BO-ta-yet gim-NAS-tam — Lui lavora come ginnasta?*  
+**Друг:** Да, и он занимается с известным тренером. *Da, i on zanimaetsja s izvestnym trenerom. — DA i ON za-ni-MA-yet-sya s iz-VYEST-nym TRE-nye-ram — Sì, e si allena con un allenatore famoso.*  
+
 ---
 
 [Torna all'indice](../README.md) | [Precedente: Accusativo](accusativo.md) | [Prossimo: Prepositivo](prepositivo.md)

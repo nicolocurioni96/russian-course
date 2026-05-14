@@ -63,6 +63,40 @@ Nota: В si usa per edifici e citta, НА per superfici, eventi e alcuni luoghi 
 | на неделю | na nedelju | na ni-DYE-lyu | per una settimana |
 | каждый день | kazhdyj den' | KAZH-dyj DYEN | ogni giorno |
 
+
+---
+
+## Frasi pratiche: Direzione e oggetto
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| Я иду в спортзал | Ja idu v sportzal | YA i-DU f SPORT-zal | Vado in palestra |
+| Я вижу тренера | Ja vizhu trenera | YA VI-zhu TRE-nya-ra | Vedo l'allenatore |
+| Я делаю упражнение | Ja delaiu uprazhnenie | YA DYE-la-yu u-prazh-NYE-ni-ye | Faccio l'esercizio |
+| Я еду в Москву | Ja edu v Moskvu | YA YE-du v mask-VU | Vado a Mosca |
+| Она идёт на тренировку | Ona idjot na trenirovku | a-NA i-DYOT na tri-ni-ROF-ku | Lei va ad allenarsi |
+| Мы едем в Рим на неделю | My edem v Rim na nedelju | MY YE-dyem v RIM na ni-DYE-lyu | Andiamo a Roma per una settimana |
+| Я делаю мост | Ja delaiu most | YA DYE-la-yu MOST | Faccio il ponte |
+| Он видит бревно | On vidit brevno | ON VI-dit BRYEV-na | Lui vede la trave |
+| Я люблю гимнастику | Ja ljublju gimnastiku | YA lyub-LYU gim-NAS-ti-ku | Amo la ginnastica |
+| Мы едем в Сочи | My edem v Sochi | MY YE-dyem v SO-chi | Andiamo a Sochi |
+
+### Dialogo breve: Andiamo a Москву?
+
+**Николо:** Я иду в спортзал. *Ja idu v sportzal. — YA i-DU f SPORT-zal — Vado in palestra.*  
+**Друг:** А я еду в Москву на неделю. *A ja edu v Moskvu na nedelju. — a YA YE-du v mask-VU na ni-DYE-lyu — E io vado a Mosca per una settimana.*  
+
+### Dialogo: A Рим per la gara
+
+**Николо:** Куда ты идёшь? *Kuda ty idjosh'? — ku-DA ty i-DYOSH — Dove vai?*  
+**Друг:** Я иду в спортзал. *Ja idu v sportzal. — YA i-DU f SPORT-zal — Vado in palestra.*  
+**Николо:** Я вижу тренера там. *Ja vizhu trenera tam. — YA VI-zhu TRE-nya-ra TAM — Vedo l'allenatore lì.*  
+**Друг:** Что ты делаешь? *Chto ty delaesh'? — SHTO ty DYE-la-yesh — Cosa fai?*  
+**Николо:** Я делаю упражнение на бревно. *Ja delaiu uprazhnenie na brevno. — YA DYE-la-yu u-prazh-NYE-ni-ye na BRYEV-na — Faccio l'esercizio sulla trave.*  
+**Друг:** Мы едем в Рим на соревнование. *My edem v Rim na sorevnovanie. — MY YE-dyem v RIM na sa-ryev-NA-va-ni-ye — Andiamo a Roma per la gara.*  
+**Николо:** На сколько? *Na skol'ko? — na SKOL-ka — Per quanto tempo?*  
+**Друг:** На неделю. *Na nedelju. — na ni-DYE-lyu — Per una settimana.*  
+
 ---
 
 [Torna all'indice](../README.md) | [Precedente: Dativo](dativo.md) | [Prossimo: Strumentale](strumentale.md)

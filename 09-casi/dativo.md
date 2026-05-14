@@ -86,6 +86,38 @@ In russo l'eta si esprime con il dativo: "a me (sono) 25 anni"
 | Мне интересно | Mne interesno | MNYE in-ti-RYES-na | Mi interessa |
 | Мне скучно | Mne skuchno | MNYE SKUSH-na | Mi annoio |
 
+
+---
+
+## Frasi pratiche: A chi? A cosa?
+
+| Cirillico | Traslitterazione | Pronuncia | Italiano |
+|-----------|-----------------|-----------|----------|
+| Я дам мяч другу | Ja dam mjach drugu | YA DAM MYACH DRU-gu | Darò la palla all'amico |
+| Позвони тренеру | Pozvoni treneru | paz-va-NI TRE-nye-ru | Chiama l'allenatore |
+| Мне нравится гимнастика | Mne nravitsja gimnastika | MNYE NRA-vi-tsa gim-NAS-ti-ka | Mi piace la ginnastica |
+| Мне холодно в спортзале | Mne cholodno v sportzale | MNYE CHO-lad-na f SPORT-za-lye | Ho freddo in palestra |
+| Сколько тебе лет | Skol'ko tebe let | SKOL-ka ti-BYE LYET | Quanti anni hai |
+| Мне нужен коврик | Mne nuzhen kovrik | MNYE NU-zhen KOV-rik | Ho bisogno del tappetino |
+| Я помогаю другу на брусьях | Ja pomogaju drugu na brus'jakh | YA pa-ma-GA-yu DRU-gu na BRUS-yakh | Aiuto l'amico alle parallele |
+| Мне нравится Сочи | Mne nravitsja Sochi | MNYE NRA-vi-tsa SO-chi | Mi piace Sochi |
+| Позвони мне вечером | Pozvoni mne vecherom | paz-va-NI MNYE VYE-chi-ram | Chiamami la sera |
+| Мне жарко после тренировки | Mne zharko posle trenirovki | MNYE ZHAR-ka PO-slye tri-ni-ROF-ki | Ho caldo dopo l'allenamento |
+
+### Dialogo breve: Il numero del trenér
+
+**Николо:** Я дам мяч другу. *Ja dam mjach drugu. — YA DAM MYACH DRU-gu — Darò la palla all'amico.*  
+**Друг:** Спасибо! Позвони мне вечером. *Spasibo! Pozvoni mne vecherom. — spa-SI-ba paz-va-NI MNYE VYE-chi-ram — Grazie! Chiamami la sera.*  
+
+### Dialogo: A Сочи con la squadra
+
+**Тренер:** Сколько тебе лет, Николо? *Skol'ko tebe let, Nikolo? — SKOL-ka ti-BYE LYET ni-KO-lo — Quanti anni hai, Nikolo?*  
+**Николо:** Мне двадцать лет. *Mne dvadtsat' let. — MNYE DVA-tsat' LYET — Ho vent'anni.*  
+**Тренер:** Тебе нравится гимнастика? *Tebe nravitsja gimnastika? — ti-BYE NRA-vi-tsa gim-NAS-ti-ka — Ti piace la ginnastica?*  
+**Николо:** Да, мне нравится! Но мне холодно в спортзале. *Da, mne nravitsja! No mne cholodno v sportzale. — DA MNYE NRA-vi-tsa no MNYE CHO-lad-na f SPORT-za-lye — Sì, mi piace! Ma ho freddo in palestra.*  
+**Тренер:** Позвони мне завтра. *Pozvoni mne zavtra. — paz-va-NI MNYE ZAV-tra — Chiamami domani.*  
+**Николо:** Хорошо, я помогу другу на брусьях. *Khorosho, ja pomogu drugu na brus'jakh. — kha-ra-SHO YA pa-ma-GU DRU-gu na BRUS-yakh — Bene, aiuterò l'amico alle parallele.*  
+
 ---
 
 [Torna all'indice](../README.md) | [Precedente: Genitivo](genitivo.md) | [Prossimo: Accusativo](accusativo.md)

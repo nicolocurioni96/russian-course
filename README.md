@@ -64,6 +64,10 @@ Ogni voce segue questo formato:
 - [Esercizi Casi](14-esercizi/esercizi-casi.md)
 - [Esercizi Verbi](14-esercizi/esercizi-verbi.md)
 
+### Conversazioni Pratiche
+
+- [15 - Conversazioni Pratiche](15-conversazioni/conversazioni-pratiche.md) — Dialoghi con Николо, situazioni reali, ginnastica artistica
+
 ---
 
 Buono studio!
