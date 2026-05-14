@@ -103,17 +103,21 @@ Nota: dopo У, i pronomi cambiano forma: меня, тебя, него, неё, �
 
 ### Dialogo breve: Prima della trenirovka
 
-**Николо:** У тебя есть коврик? *U tebja est' kovrik? — u ti-BYA YEST KOV-rik — Hai il tappetino?*  
-**Друг:** Нет, у меня нет коврика. *Net, u menja net kovrika. — NYET u mi-NYA NYET kov-RI-ka — No, non ho il tappetino.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | У тебя есть коврик? | U tebja est' kovrik? | u ti-BYA YEST KOV-rik | Hai il tappetino? |
+| Друг | Нет, у меня нет коврика. | Net, u menja net kovrika. | NYET u mi-NYA NYET kov-RI-ka | No, non ho il tappetino. |
 
 ### Dialogo: Dopo l'allenamento a Милане
 
-**Николо:** У тебя есть вода? *U tebja est' voda? — u ti-BYA YEST va-DA — Hai acqua?*  
-**Друг:** Нет, здесь нет воды. *Net, zdes' net vody. — NYET ZDYES NYET va-DY — No, qui non c'è acqua.*  
-**Николо:** У меня нет сил после тренировки. *U menja net sil posle trenirovki. — u mi-NYA NYET SIL PO-slye tri-ni-ROF-ki — Non ho forze dopo l'allenamento.*  
-**Друг:** До дома пять минут. *Do doma pjat' minut. — DA DO-ma PYAT mi-NUT — Fino a casa cinque minuti.*  
-**Николо:** Хорошо, пойдём! *Khorosho, pojdjom! — kha-ra-SHO paj-DYOM — Bene, andiamo!*  
-**Друг:** Это спортзал нового клуба. *Eto sportzal novogo kluba. — E-ta SPORT-zal NO-va-va KLU-ba — Questa è la palestra del nuovo club.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | У тебя есть вода? | U tebja est' voda? | u ti-BYA YEST va-DA | Hai acqua? |
+| Друг | Нет, здесь нет воды. | Net, zdes' net vody. | NYET ZDYES NYET va-DY | No, qui non c'è acqua. |
+| Николо | У меня нет сил после тренировки. | U menja net sil posle trenirovki. | u mi-NYA NYET SIL PO-slye tri-ni-ROF-ki | Non ho forze dopo l'allenamento. |
+| Друг | До дома пять минут. | Do doma pjat' minut. | DA DO-ma PYAT mi-NUT | Fino a casa cinque minuti. |
+| Николо | Хорошо, пойдём! | Khorosho, pojdjom! | kha-ra-SHO paj-DYOM | Bene, andiamo! |
+| Друг | Это спортзал нового клуба. | Eto sportzal novogo kluba. | E-ta SPORT-zal NO-va-va KLU-ba | Questa è la palestra del nuovo club. |
 
 ---
 

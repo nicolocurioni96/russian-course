@@ -61,18 +61,22 @@
 
 ### Dialogo breve: Famiglia sportiva
 
-**Мама:** Как прошла тренировка, Николо? *Kak proshla trenirovka, Nikolo? — KAK PRO-shla try-ni-ROF-ka ni-KO-lo — Come è andato l'allenamento, Nikolo?*  
-**Николо:** Отлично! Я сделал мост и колесо. *Otlichno! Ja sdelal most i koleso. — at-LYECH-na YA SDYE-lal MOST i ka-LYE-sa — Ottimo! Ho fatto il ponte e la ruota.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Мама | Как прошла тренировка, Николо? | Kak proshla trenirovka, Nikolo? | KAK PRO-shla try-ni-ROF-ka ni-KO-lo | Come è andato l'allenamento, Nikolo? |
+| Николо | Отлично! Я сделал мост и колесо. | Otlichno! Ja sdelal most i koleso. | at-LYECH-na YA SDYE-lal MOST i ka-LYE-sa | Ottimo! Ho fatto il ponte e la ruota. |
 
 ---
 
 ### Dialogo: Fratello atleta
 
-**Тётя:** Где работает твой брат? *Gde rabotaet tvoj brat? — GDYE ra-bo-TA-yet TVOJ BRAT — Dov'è lavora tuo fratello?*  
-**Николо:** Он гимнаст в Неаполе. *On gimnast v Neapole. — ON GIM-nast v nye-A-pa-lye — È un ginnasta a Napoli.*  
-**Тётя:** Серьёзно? Он тренируется каждый день? *Ser'jozno? On treniruetsja kazhdyj den'? — sye-RYOZ-na ON try-ni-ROO-ye-tsa KAZH-dyj DYEN — Sul serio? Si allena ogni giorno?*  
-**Николо:** Да, и моя сестра тоже делает сальто. *Da, i moja sestra tozhe delaet sal'to. — DA i ma-YA SIS-tra TO-zhe DYE-la-yet SAL'-ta — Sì, e mia sorella fa anche i salti.*  
-**Тётя:** Ваша семья очень спортивная! *Vasha sem'ja ochen' sportivnaja! — VA-sha sim-YA O-chin spor-TEEV-na-ya — La vostra famiglia è molto sportiva!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тётя | Где работает твой брат? | Gde rabotaet tvoj brat? | GDYE ra-bo-TA-yet TVOJ BRAT | Dov'è lavora tuo fratello? |
+| Николо | Он гимнаст в Неаполе. | On gimnast v Neapole. | ON GIM-nast v nye-A-pa-lye | È un ginnasta a Napoli. |
+| Тётя | Серьёзно? Он тренируется каждый день? | Ser'jozno? On treniruetsja kazhdyj den'? | sye-RYOZ-na ON try-ni-ROO-ye-tsa KAZH-dyj DYEN | Sul serio? Si allena ogni giorno? |
+| Николо | Да, и моя сестра тоже делает сальто. | Da, i moja sestra tozhe delaet sal'to. | DA i ma-YA SIS-tra TO-zhe DYE-la-yet SAL'-ta | Sì, e mia sorella fa anche i salti. |
+| Тётя | Ваша семья очень спортивная! | Vasha sem'ja ochen' sportivnaja! | VA-sha sim-YA O-chin spor-TEEV-na-ya | La vostra famiglia è molto sportiva! |
 
 ---
 

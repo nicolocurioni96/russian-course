@@ -117,20 +117,24 @@
 
 ### Dialogo breve: Al supermercato
 
-**Продавец:** Что вам нужно? *Chto vam nuzhno? — SHTO VAM NUZH-na — Di cosa ha bisogno?*  
-**Николо:** Мне нужна курица и макароны. *Mne nuzhna kuritsa i makarony. — MNYE NUZH-na KU-ri-tsa i ma-ka-RO-ny — Ho bisogno di pollo e pasta.*  
-**Продавец:** Это для ужина? *Eto dlja uzhina? — E-ta DLYA u-ZHI-na — È per cena?*  
-**Николо:** Нет, это мой обед после тренировки. *Net, eto moj obed posle trenirovki. — NYET E-ta MOJ a-BYED POS-lye try-ni-ROF-ki — No, è il mio pranzo dopo l'allenamento.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Продавец | Что вам нужно? | Chto vam nuzhno? | SHTO VAM NUZH-na | Di cosa ha bisogno? |
+| Николо | Мне нужна курица и макароны. | Mne nuzhna kuritsa i makarony. | MNYE NUZH-na KU-ri-tsa i ma-ka-RO-ny | Ho bisogno di pollo e pasta. |
+| Продавец | Это для ужина? | Eto dlja uzhina? | E-ta DLYA u-ZHI-na | È per cena? |
+| Николо | Нет, это мой обед после тренировки. | Net, eto moj obed posle trenirovki. | NYET E-ta MOJ a-BYED POS-lye try-ni-ROF-ki | No, è il mio pranzo dopo l'allenamento. |
 
 ---
 
 ### Dialogo: Dopo l'allenamento
 
-**Официант:** Что будете заказывать? *Chto budete zakazyvat'? — SHTO bu-DYE-tye za-KA-zy-vat — Cosa desidera ordinare?*  
-**Николо:** Мне, пожалуйста, макароны с курицей и салат. *Mne, pozhalujsta, makarony s kuritsej i salat. — MNYE pa-ZHA-lu-sta ma-ka-RO-ny s ku-RI-tsey i sa-LAT — Per me pasta con pollo e insalata, per favore.*  
-**Официант:** Хотите что-нибудь выпить? *Khotite chto-nibud' vypit'? — kha-TEE-tye SHTO-ni-bud' VY-pit — Vuole qualcosa da bere?*  
-**Николо:** Воду без газа. Я не пью сахар. *Vodu bez gaza. Ja ne p'ju sachar. — VO-du BYEZ GA-za YA NYE pyu SA-khar — Acqua naturale. Non bevo zucchero.*  
-**Официант:** Отличный выбор для атлета! *Otlichnyj vybor dlja atleta! — at-LYECH-nyj VY-bor DLYA at-LYE-ta — Ottima scelta per un atleta!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Официант | Что будете заказывать? | Chto budete zakazyvat'? | SHTO bu-DYE-tye za-KA-zy-vat | Cosa desidera ordinare? |
+| Николо | Мне, пожалуйста, макароны с курицей и салат. | Mne, pozhalujsta, makarony s kuritsej i salat. | MNYE pa-ZHA-lu-sta ma-ka-RO-ny s ku-RI-tsey i sa-LAT | Per me pasta con pollo e insalata, per favore. |
+| Официант | Хотите что-нибудь выпить? | Khotite chto-nibud' vypit'? | kha-TEE-tye SHTO-ni-bud' VY-pit | Vuole qualcosa da bere? |
+| Николо | Воду без газа. Я не пью сахар. | Vodu bez gaza. Ja ne p'ju sachar. | VO-du BYEZ GA-za YA NYE pyu SA-khar | Acqua naturale. Non bevo zucchero. |
+| Официант | Отличный выбор для атлета! | Otlichnyj vybor dlja atleta! | at-LYECH-nyj VY-bor DLYA at-LYE-ta | Ottima scelta per un atleta! |
 
 ---
 

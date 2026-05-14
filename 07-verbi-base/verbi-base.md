@@ -201,26 +201,30 @@ Nota sulla negazione: si mette НЕ (ne) prima del verbo. Semplice!
 
 ### Dialogo breve: Azioni di base
 
-**Тренер:** Что ты делаешь? *Chto ty delajesh'? — SHTO TY DYE-la-yesh? — Cosa fai?*  
-**Николо:** Я делаю планку. *Ja delaju planku. — YA DYE-la-yu PLAN-ku. — Faccio la plank.*  
-**Тренер:** Хорошо. А потом? *Chorosho. A potom? — cha-ra-SHO. A PO-tam? — Bene. E poi?*  
-**Николо:** Потом я делаю отжимания. *Potom ja delaju otzhimanija. — PO-tam YA DYE-la-yu at-zhi-MA-ni-ya. — Poi faccio le flessioni.*  
-**Тренер:** Молодец! *Molodets! — ma-lad-YETS! — Bravo!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Что ты делаешь? | Chto ty delajesh'? | SHTO TY DYE-la-yesh? | Cosa fai? |
+| Николо | Я делаю планку. | Ja delaju planku. | YA DYE-la-yu PLAN-ku. | Faccio la plank. |
+| Тренер | Хорошо. А потом? | Chorosho. A potom? | cha-ra-SHO. A PO-tam? | Bene. E poi? |
+| Николо | Потом я делаю отжимания. | Potom ja delaju otzhimanija. | PO-tam YA DYE-la-yu at-zhi-MA-ni-ya. | Poi faccio le flessioni. |
+| Тренер | Молодец! | Molodets! | ma-lad-YETS! | Bravo! |  
 
 ---
 
 ### Dialogo: Allenamento completo a Tokyo
 
-**Юко:** Николо, ты прыгаешь сегодня? *Nikolo, ty prygajesh' segodnja? — ni-KO-lo, TY PRY-ga-yesh' si-VOD-nya? — Nicolò, salti oggi?*  
-**Николо:** Да, я прыгаю на бревне и делаю сальто. *Da, ja prygaju na brevne i delaju sal'to. — DA, YA PRY-ga-yu na BRYEV-nye i DYE-la-yu SAL'-ta. — Sì, salto sulla trave e faccio la capriola.*  
-**Юко:** Ты бегаешь перед тренировкой? *Ty begajesh' pered trenirovkoj? — TY BYE-ga-yesh' PYE-ryed tryi-ni-ROF-koy? — Corri prima dell'allenamento?*  
-**Николо:** Да, я бегаю десять минут. Потом я тянусь. *Da, ja begaju desjat' minut. Potom ja tjanus'. — DA, YA BYE-ga-yu DYÈ-syat mi-NUT. PO-tam YA TYA-nus'. — Sì, corro dieci minuti. Poi mi stirò.*  
-**Юко:** Мы тоже делаем растяжку. Вы отжимаетесь? *My tozhe delajem rastyazhku. Vy otzhimajetes'? — MY TO-zhe DYE-la-yem ras-TYA-zhku. VY at-zhi-MA-ye-tyes'? — Anche noi facciamo stretching. Fate flessioni?*  
-**Николо:** Да, мы отжимаемся. Я хочу сильный пресс. *Da, my otzhimajemsja. Ja khochu sil'nyj press. — DA, MY at-zhi-MA-yem-sya. YA KHA-chu SIL'-nyj PRESS. — Sì, facciamo flessioni. Voglio addominali forti.*  
-**Юко:** Отлично! Они тоже делают упражнения на брусьях? *Otlichno! Oni tozhe delajut uprazhnenija na brus'jakh? — at-LYECH-na! A-NI TO-zhe DYE-la-yut u-prazh-NYE-ni-ya na BRUS'-yakh? — Ottimo! Loro fanno anche esercizi alle parallele?*  
-**Николо:** Да, они делают упражнения и работают на перекладине. *Da, oni delajut uprazhnenija i rabotajut na perekladine. — DA, A-NI DYE-la-yut u-prazh-NYE-ni-ya i ra-bo-TA-yut na pyi-ryi-KLA-di-ny. — Sì, loro fanno esercizi e lavorano sulla sbarra.*  
-**Юко:** Ты идёшь в спортзал завтра? *Ty idjosh' v sportzal zavtra? — TY i-DYOSH' V sport-ZAL ZAV-tra? — Vai in palestra domani?*  
-**Николо:** Да, мы идём в спортзал утром. *Da, my idjom v sportzal utrom. — DA, MY i-DYOM V sport-ZAL U-tram. — Sì, andiamo in palestra di mattina.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Юко | Николо, ты прыгаешь сегодня? | Nikolo, ty prygajesh' segodnja? | ni-KO-lo, TY PRY-ga-yesh' si-VOD-nya? | Nicolò, salti oggi? |
+| Николо | Да, я прыгаю на бревне и делаю сальто. | Da, ja prygaju na brevne i delaju sal'to. | DA, YA PRY-ga-yu na BRYEV-nye i DYE-la-yu SAL'-ta. | Sì, salto sulla trave e faccio la capriola. |
+| Юко | Ты бегаешь перед тренировкой? | Ty begajesh' pered trenirovkoj? | TY BYE-ga-yesh' PYE-ryed tryi-ni-ROF-koy? | Corri prima dell'allenamento? |
+| Николо | Да, я бегаю десять минут. Потом я тянусь. | Da, ja begaju desjat' minut. Potom ja tjanus'. | DA, YA BYE-ga-yu DYÈ-syat mi-NUT. PO-tam YA TYA-nus'. | Sì, corro dieci minuti. Poi mi stirò. |
+| Юко | Мы тоже делаем растяжку. Вы отжимаетесь? | My tozhe delajem rastyazhku. Vy otzhimajetes'? | MY TO-zhe DYE-la-yem ras-TYA-zhku. VY at-zhi-MA-ye-tyes'? | Anche noi facciamo stretching. Fate flessioni? |
+| Николо | Да, мы отжимаемся. Я хочу сильный пресс. | Da, my otzhimajemsja. Ja khochu sil'nyj press. | DA, MY at-zhi-MA-yem-sya. YA KHA-chu SIL'-nyj PRESS. | Sì, facciamo flessioni. Voglio addominali forti. |
+| Юко | Отлично! Они тоже делают упражнения на брусьях? | Otlichno! Oni tozhe delajut uprazhnenija na brus'jakh? | at-LYECH-na! A-NI TO-zhe DYE-la-yut u-prazh-NYE-ni-ya na BRUS'-yakh? | Ottimo! Loro fanno anche esercizi alle parallele? |
+| Николо | Да, они делают упражнения и работают на перекладине. | Da, oni delajut uprazhnenija i rabotajut na perekladine. | DA, A-NI DYE-la-yut u-prazh-NYE-ni-ya i ra-bo-TA-yut na pyi-ryi-KLA-di-ny. | Sì, loro fanno esercizi e lavorano sulla sbarra. |
+| Юко | Ты идёшь в спортзал завтра? | Ty idjosh' v sportzal zavtra? | TY i-DYOSH' V sport-ZAL ZAV-tra? | Vai in palestra domani? |
+| Николо | Да, мы идём в спортзал утром. | Da, my idjom v sportzal utrom. | DA, MY i-DYOM V sport-ZAL U-tram. | Sì, andiamo in palestra di mattina. |  
 
 ---
 

@@ -101,17 +101,21 @@ Domanda chiave: КЕМ? (kem? = con chi?) / ЧЕМ? (chem? = con cosa?)
 
 ### Dialogo breve: Il mezzo per la palestra
 
-**Николо:** Я еду автобусом в спортзал. *Ja edu avtobusom v sportzal. — YA YE-du af-TO-bu-sam f SPORT-zal — Vado in autobus in palestra.*  
-**Друг:** А я еду с братом на метро. *A ja edu s bratom na metro. — a YA YE-du z BRA-tam na MYE-tra — E io vado con mio fratello in metro.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Я еду автобусом в спортзал. | Ja edu avtobusom v sportzal. | YA YE-du af-TO-bu-sam f SPORT-zal | Vado in autobus in palestra. |
+| Друг | А я еду с братом на метро. | A ja edu s bratom na metro. | a YA YE-du z BRA-tam na MYE-tra | E io vado con mio fratello in metro. |
 
 ### Dialogo: In palestra a Турине
 
-**Николо:** С кем ты тренируешься? *S kem ty treniruesh'sja? — s KYEM ty tri-ni-ROO-yesh-sya — Con chi ti alleni?*  
-**Друг:** Я тренируюсь с другом из Милана. *Ja trenirujus' s drugom iz Milana. — YA tri-ni-ROO-yus' z DRU-gam iz mi-LA-na — Mi alleno con un amico di Milano.*  
-**Николо:** Чем ты пишешь? *Chem ty pishesch'? — CHEM ty PI-shyesh — Con cosa scrivi?*  
-**Друг:** Я пишу ручкой. *Ja pishu ruchkoj. — YA pi-SHU RUCH-kaj — Scrivo con la penna.*  
-**Николо:** Он работает гимнастом? *On rabotaet gimnastom? — ON ra-BO-ta-yet gim-NAS-tam — Lui lavora come ginnasta?*  
-**Друг:** Да, и он занимается с известным тренером. *Da, i on zanimaetsja s izvestnym trenerom. — DA i ON za-ni-MA-yet-sya s iz-VYEST-nym TRE-nye-ram — Sì, e si allena con un allenatore famoso.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | С кем ты тренируешься? | S kem ty treniruesh'sja? | s KYEM ty tri-ni-ROO-yesh-sya | Con chi ti alleni? |
+| Друг | Я тренируюсь с другом из Милана. | Ja trenirujus' s drugom iz Milana. | YA tri-ni-ROO-yus' z DRU-gam iz mi-LA-na | Mi alleno con un amico di Milano. |
+| Николо | Чем ты пишешь? | Chem ty pishesch'? | CHEM ty PI-shyesh | Con cosa scrivi? |
+| Друг | Я пишу ручкой. | Ja pishu ruchkoj. | YA pi-SHU RUCH-kaj | Scrivo con la penna. |
+| Николо | Он работает гимнастом? | On rabotaet gimnastom? | ON ra-BO-ta-yet gim-NAS-tam | Lui lavora come ginnasta? |
+| Друг | Да, и он занимается с известным тренером. | Da, i on zanimaetsja s izvestnym trenerom. | DA i ON za-ni-MA-yet-sya s iz-VYEST-nym TRE-nye-ram | Sì, e si allena con un allenatore famoso. |
 
 ---
 

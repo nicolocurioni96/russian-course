@@ -50,20 +50,24 @@
 
 ### Dialogo breve: Sport con i colleghi
 
-**Коллега:** Николо, ты ходишь в спортзал? *Nikolo, ty khodish' v sportzal? — ni-KO-lo TY KHO-dish' v SPORT-zal — Nikolo, vai in palestra?*  
-**Николо:** Да, каждый вечер после работы. *Da, kazhdyj vecher posle raboty. — DA KAZH-dyj VYE-chyer POS-lye ra-BO-ty — Sì, ogni sera dopo lavoro.*  
-**Коллега:** Давай вместе завтра! *Davaj vmeste zavtra! — da-VAY VMYES-tye ZAF-tra — Andiamo insieme domani!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Коллега | Николо, ты ходишь в спортзал? | Nikolo, ty khodish' v sportzal? | ni-KO-lo TY KHO-dish' v SPORT-zal | Nikolo, vai in palestra? |
+| Николо | Да, каждый вечер после работы. | Da, kazhdyj vecher posle raboty. | DA KAZH-dyj VYE-chyer POS-lye ra-BO-ty | Sì, ogni sera dopo lavoro. |
+| Коллега | Давай вместе завтра! | Davaj vmeste zavtra! | da-VAY VMYES-tye ZAF-tra | Andiamo insieme domani! |
 
 ---
 
 ### Dialogo: Colloquio e passione per la ginnastica
 
-**Менеджер:** Расскажите о себе. *Rasskazhite o sebe. — ras-ka-ZHEE-tye a SYE-bye — Mi parli di lei.*  
-**Николо:** Я программист из Вероны. Я также занимаюсь гимнастикой. *Ja programmist iz Verony. Ja takzhe zanimaus' gimnastikoj. — YA pra-gra-MIST iz VYE-ro-ny YA TAK-zhe za-ni-MA-yus' gim-NAS-ti-kaj — Sono un programmatore di Verona. Faccio anche ginnastica.*  
-**Менеджер:** Интересно! Вы работаете удалённо? *Interesno! Vy rabotaete udaljnno? — in-ti-RYES-na VY ra-bo-TA-ye-tye u-da-LYO-na — Interessante! Lavora da remoto?*  
-**Николо:** Да, и мне важно иметь спортзал рядом. *Da, i mne vazhno imet' sportzal rjadom. — DA i MNYE VAZH-na i-MYET' SPORT-zal RYA-dam — Sì, ed è importante per me avere una palestra vicina.*  
-**Менеджер:** Наш офис в Екатеринбурге рядом с отличным спортзалом. *Nash ofis v Ekaterinburge rjadom s otlichnym sportzalom. — NASH O-fis v ye-ka-tyi-RIN-bur-gye RYA-dam s at-LYECH-nym SPORT-za-lam — Il nostro ufficio a Ekaterinburg è vicino a un'ottima palestra.*  
-**Николо:** Отлично! Я готов начать в понедельник. *Otlichno! Ja gotov nachat' v ponedel'nik. — at-LYECH-na YA ga-TOF NA-chat' v pa-ni-DYEL-nik — Ottimo! Sono pronto a iniziare lunedì.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Менеджер | Расскажите о себе. | Rasskazhite o sebe. | ras-ka-ZHEE-tye a SYE-bye | Mi parli di lei. |
+| Николо | Я программист из Вероны. Я также занимаюсь гимнастикой. | Ja programmist iz Verony. Ja takzhe zanimaus' gimnastikoj. | YA pra-gra-MIST iz VYE-ro-ny YA TAK-zhe za-ni-MA-yus' gim-NAS-ti-kaj | Sono un programmatore di Verona. Faccio anche ginnastica. |
+| Менеджер | Интересно! Вы работаете удалённо? | Interesno! Vy rabotaete udaljnno? | in-ti-RYES-na VY ra-bo-TA-ye-tye u-da-LYO-na | Interessante! Lavora da remoto? |
+| Николо | Да, и мне важно иметь спортзал рядом. | Da, i mne vazhno imet' sportzal rjadom. | DA i MNYE VAZH-na i-MYET' SPORT-zal RYA-dam | Sì, ed è importante per me avere una palestra vicina. |
+| Менеджер | Наш офис в Екатеринбурге рядом с отличным спортзалом. | Nash ofis v Ekaterinburge rjadom s otlichnym sportzalom. | NASH O-fis v ye-ka-tyi-RIN-bur-gye RYA-dam s at-LYECH-nym SPORT-za-lam | Il nostro ufficio a Ekaterinburg è vicino a un'ottima palestra. |
+| Николо | Отлично! Я готов начать в понедельник. | Otlichno! Ja gotov nachat' v ponedel'nik. | at-LYECH-na YA ga-TOF NA-chat' v pa-ni-DYEL-nik | Ottimo! Sono pronto a iniziare lunedì. |
 
 ---
 

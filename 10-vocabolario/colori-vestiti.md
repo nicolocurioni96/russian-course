@@ -78,19 +78,23 @@ Nota: il russo distingue tra BLU SCURO (синий) e AZZURRO (голубой). 
 
 ### Dialogo breve: Al negozio sportivo
 
-**Продавец:** Какого цвета кроссовки вам нужны? *Kakogo tsveta krossovki vam nuzhny? — ka-KO-va tsVYE-ta kra-SOF-ki VAM NUZH-ny — Di che colore le serve le scarpe da ginnastica?*  
-**Николо:** Чёрные, пожалуйста. Они для спортзала. *Chjornye, pozhalujsta. Oni dlja sportzala. — CHOR-ny-ye pa-ZHA-lu-sta O-ni DLYA SPORT-za-la — Nere, per favore. Sono per la palestra.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Продавец | Какого цвета кроссовки вам нужны? | Kakogo tsveta krossovki vam nuzhny? | ka-KO-va tsVYE-ta kra-SOF-ki VAM NUZH-ny | Di che colore le serve le scarpe da ginnastica? |
+| Николо | Чёрные, пожалуйста. Они для спортзала. | Chjornye, pozhalujsta. Oni dlja sportzala. | CHOR-ny-ye pa-ZHA-lu-sta O-ni DLYA SPORT-za-la | Nere, per favore. Sono per la palestra. |
 
 ---
 
 ### Dialogo: Vestirsi per la palestra
 
-**Подруга:** Что ты наденешь на тренировку? *Chto ty nadenezh' na trenirovku? — SHTO TY na-DYE-nesh' na try-ni-ROF-ku — Cosa indosserai per l'allenamento?*  
-**Николо:** Синие брюки и белую футболку. *Sinie brjuki i beluju futbolku. — SI-ni-ye BRYU-ki i BYE-lu-yu fut-BOL-ku — Pantaloni blu e maglietta bianca.*  
-**Подруга:** А куртка? На улице холодно. *A kurtka? Na ulitse kholodno. — a KURT-ka na U-li-tse kha-LAD-na — E la giacca? Fuori fa freddo.*  
-**Николо:** Я возьму зелёную куртку. Она очень тёплая. *Ja voz'mu zeljonuju kurtku. Ona ochen' tjoplaia. — YA vaz-MYU zil-YO-nu-yu KURT-ku O-na O-chin TYOP-la-ya — Prenderò la giacca verde. È molto calda.*  
-**Подруга:** Где твой коврик? *Gde tvoj kovrik? — GDYE TVOJ kov-RIK — Dov'è il tuo tappetino?*  
-**Николо:** Красный коврик в шкафу. *Krasnyj kovrik v shkafu. — KRAS-nyj kov-RIK v shka-FU — Il tappetino rosso è nell'armadio.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Подруга | Что ты наденешь на тренировку? | Chto ty nadenezh' na trenirovku? | SHTO TY na-DYE-nesh' na try-ni-ROF-ku | Cosa indosserai per l'allenamento? |
+| Николо | Синие брюки и белую футболку. | Sinie brjuki i beluju futbolku. | SI-ni-ye BRYU-ki i BYE-lu-yu fut-BOL-ku | Pantaloni blu e maglietta bianca. |
+| Подруга | А куртка? На улице холодно. | A kurtka? Na ulitse kholodno. | a KURT-ka na U-li-tse kha-LAD-na | E la giacca? Fuori fa freddo. |
+| Николо | Я возьму зелёную куртку. Она очень тёплая. | Ja voz'mu zeljonuju kurtku. Ona ochen' tjoplaia. | YA vaz-MYU zil-YO-nu-yu KURT-ku O-na O-chin TYOP-la-ya | Prenderò la giacca verde. È molto calda. |
+| Подруга | Где твой коврик? | Gde tvoj kovrik? | GDYE TVOJ kov-RIK | Dov'è il tuo tappetino? |
+| Николо | Красный коврик в шкафу. | Krasnyj kovrik v shkafu. | KRAS-nyj kov-RIK v shka-FU | Il tappetino rosso è nell'armadio. |
 
 ---
 

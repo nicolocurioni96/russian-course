@@ -93,18 +93,22 @@
 
 ### Dialogo breve: Colloquio come allenatore
 
-**Директор:** Почему вы хотите работать тренером? *Pochemu vy khotite rabotat' trenerom? — pa-CHYE-mu VY kha-TEE-tye ra-BO-tat' TRYE-ne-ram — Perché vuole lavorare come allenatore?*  
-**Николо:** Я люблю гимнастику и хочу помогать людям. *Ja ljublju gimnastiku i khochu pomogat' ljudjam. — YA LYUB-lyu gim-NAS-ti-ku i KHO-chu pa-ma-GAT' LYU-dyam — Amo la ginnastica e voglio aiutare le persone.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Директор | Почему вы хотите работать тренером? | Pochemu vy khotite rabotat' trenerom? | pa-CHYE-mu VY kha-TEE-tye ra-BO-tat' TRYE-ne-ram | Perché vuole lavorare come allenatore? |
+| Николо | Я люблю гимнастику и хочу помогать людям. | Ja ljublju gimnastiku i khochu pomogat' ljudjam. | YA LYUB-lyu gim-NAS-ti-ku i KHO-chu pa-ma-GAT' LYU-dyam | Amo la ginnastica e voglio aiutare le persone. |
 
 ---
 
 ### Dialogo: Remote work e allenamenti
 
-**Коллега:** Ты работаешь удалённо из Вероны? *Ty rabotaesh' udaljnno iz Verony? — TY ra-bo-TA-yesh' u-da-LYO-na iz VYE-ro-ny — Lavori da remoto da Verona?*  
-**Николо:** Да, и каждый день хожу в спортзал после работы. *Da, i kazhdyj den' khozhu v sportzal posle raboty. — DA i KAZH-dyj DEN' KHO-zhu v SPORT-zal POS-lye ra-BO-ty — Sì, e ogni giorno vado in palestra dopo lavoro.*  
-**Коллега:** Что ты делаешь в спортзале? *Chto ty delaesh' v sportzale? — SHTO TY DYE-la-yesh' v SPORT-za-lye — Cosa fai in palestra?*  
-**Николо:** Планка, отжимания и брусья. Хочешь присоединиться? *Planka, otzhimanija i brus'ja. Khochesh' prisoe'dinit'sja? — PLAN-ka at-zhi-MA-ni-ya i BRUS'-ya KHO-chesh' pri-sa-yed-NIT-sya — Plank, flessioni e parallele. Vuoi unirti?*  
-**Коллега:** С удовольствием! Я начал тренировки в понедельник. *S udovol'stviem! Ja nachal trenirovki v ponedel'nik. — s u-da-VOL'-stvi-yem YA NA-chal try-ni-ROF-ki v pa-ni-DYEL-nik — Con piacere! Ho iniziato ad allenarmi lunedì.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Коллега | Ты работаешь удалённо из Вероны? | Ty rabotaesh' udaljnno iz Verony? | TY ra-bo-TA-yesh' u-da-LYO-na iz VYE-ro-ny | Lavori da remoto da Verona? |
+| Николо | Да, и каждый день хожу в спортзал после работы. | Da, i kazhdyj den' khozhu v sportzal posle raboty. | DA i KAZH-dyj DEN' KHO-zhu v SPORT-zal POS-lye ra-BO-ty | Sì, e ogni giorno vado in palestra dopo lavoro. |
+| Коллега | Что ты делаешь в спортзале? | Chto ty delaesh' v sportzale? | SHTO TY DYE-la-yesh' v SPORT-za-lye | Cosa fai in palestra? |
+| Николо | Планка, отжимания и брусья. Хочешь присоединиться? | Planka, otzhimanija i brus'ja. Khochesh' prisoe'dinit'sja? | PLAN-ka at-zhi-MA-ni-ya i BRUS'-ya KHO-chesh' pri-sa-yed-NIT-sya | Plank, flessioni e parallele. Vuoi unirti? |
+| Коллега | С удовольствием! Я начал тренировки в понедельник. | S udovol'stviem! Ja nachal trenirovki v ponedel'nik. | s u-da-VOL'-stvi-yem YA NA-chal try-ni-ROF-ki v pa-ni-DYEL-nik | Con piacere! Ho iniziato ad allenarmi lunedì. |
 
 ---
 

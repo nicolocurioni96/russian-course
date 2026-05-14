@@ -64,17 +64,21 @@ Il nominativo e il caso piu semplice. Usalo come punto di partenza per capire gl
 
 ### Dialogo breve: Allo sportzal
 
-**Тренер:** Доброе утро! *Dobroe utro! — DO-bra-ye U-tra — Buongiorno!*  
-**Николо:** Доброе утро! Я готов к тренировке. *Dobroe utro! Ja gotov k trenirovke. — DO-bra-ye U-tra! YA GO-tov k tri-ni-ROF-kye — Buongiorno! Sono pronto per l'allenamento.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Доброе утро! | Dobroe utro! | DO-bra-ye U-tra | Buongiorno! |
+| Николо | Доброе утро! Я готов к тренировке. | Dobroe utro! Ja gotov k trenirovke. | DO-bra-ye U-tra! YA GO-tov k tri-ni-ROF-kye | Buongiorno! Sono pronto per l'allenamento. |
 
 ### Dialogo: In palestra a Риме
 
-**Николо:** Где тренер? *Gde trener? — GDYE TRE-nyer — Dov'è l'allenatore?*  
-**Друг:** Тренер в спортзале. *Trener v sportzale. — TRE-nyer f SPORT-za-lye — L'allenatore è in palestra.*  
-**Николо:** А где коврик? *A gde kovrik? — a GDYE KOV-rik — E dov'è il tappetino?*  
-**Друг:** Коврик на полу. *Kovrik na polu. — KOV-rik na PO-lu — Il tappetino è a terra.*  
-**Николо:** Сегодня трудная тренировка? *Segodnja trudnaja trenirovka? — si-VOD-nya TROOD-na-ya tri-ni-ROF-ka — Oggi l'allenamento è difficile?*  
-**Друг:** Да, но ты сильный гимнаст! *Da, no ty sil'nyj gimnast! — DA no ty SIL-nyj gim-NAST — Sì, ma sei un ginnasta forte!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Где тренер? | Gde trener? | GDYE TRE-nyer | Dov'è l'allenatore? |
+| Друг | Тренер в спортзале. | Trener v sportzale. | TRE-nyer f SPORT-za-lye | L'allenatore è in palestra. |
+| Николо | А где коврик? | A gde kovrik? | a GDYE KOV-rik | E dov'è il tappetino? |
+| Друг | Коврик на полу. | Kovrik na polu. | KOV-rik na PO-lu | Il tappetino è a terra. |
+| Николо | Сегодня трудная тренировка? | Segodnja trudnaja trenirovka? | si-VOD-nya TROOD-na-ya tri-ni-ROF-ka | Oggi l'allenamento è difficile? |
+| Друг | Да, но ты сильный гимнаст! | Da, no ty sil'nyj gimnast! | DA no ty SIL-nyj gim-NAST | Sì, ma sei un ginnasta forte! |
 
 ---
 

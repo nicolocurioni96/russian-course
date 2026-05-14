@@ -68,22 +68,26 @@
 
 ### Dialogo breve: Ordinare da atleta
 
-**Официант:** Что вы хотите заказать? *Chto vy khotite zakazat'? — SHTO VY kha-TEE-tye za-ka-ZAT — Cosa desidera ordinare?*  
-**Николо:** Мне, пожалуйста, макароны с курицей. Без сахара. *Mne, pozhalujsta, makarony s kuritsej. Bez sachara. — MNYE pa-ZHA-lu-sta ma-ka-RO-ny s ku-RI-tsey BYEZ SA-kha-ra — Per me pasta con pollo. Senza zucchero.*  
-**Официант:** Хотите салат? *Khotite salat? — kha-TEE-tye sa-LAT — Vuole un'insalata?*  
-**Николо:** Да, с яйцами. Это после тренировки. *Da, s jajtsami. Eto posle trenirovki. — DA s yaj-TSAM-i E-ta POS-lye try-ni-ROF-ki — Sì, con uova. È dopo l'allenamento.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Официант | Что вы хотите заказать? | Chto vy khotite zakazat'? | SHTO VY kha-TEE-tye za-ka-ZAT | Cosa desidera ordinare? |
+| Николо | Мне, пожалуйста, макароны с курицей. Без сахара. | Mne, pozhalujsta, makarony s kuritsej. Bez sachara. | MNYE pa-ZHA-lu-sta ma-ka-RO-ny s ku-RI-tsey BYEZ SA-kha-ra | Per me pasta con pollo. Senza zucchero. |
+| Официант | Хотите салат? | Khotite salat? | kha-TEE-tye sa-LAT | Vuole un'insalata? |
+| Николо | Да, с яйцами. Это после тренировки. | Da, s jajtsami. Eto posle trenirovki. | DA s yaj-TSAM-i E-ta POS-lye try-ni-ROF-ki | Sì, con uova. È dopo l'allenamento. |
 
 ---
 
 ### Dialogo: Cena post-allenamento a Болонья
 
-**Официант:** Добрый вечер! Столик на одного? *Dobryj vecher! Stolik na odnogo? — DOB-ryj VYE-chyer STO-lik na ad-NA-go — Buonasera! Tavolo per uno?*  
-**Николо:** Да, спасибо. Я только что был на тренировке. *Da, spasibo. Ja tol'ko chto byl na trenirovke. — DA spa-SI-ba YA TOL'-ka shto BYL na try-ni-ROF-kye — Sì, grazie. Sono appena stato ad allenarmi.*  
-**Официант:** В Болонье много спортсменов. Что будете есть? *V Bolon'e mnogo sportsmenov. Chto budete est'? — v ba-LO-nye MNO-ga sport-SMYE-naf SHTO bu-DYE-tye yest — A Bologna ci sono molti atleti. Cosa mangerà?*  
-**Николо:** Мне нужно много белка. Есть курица или рыба? *Mne nuzhno mnogo belka. Est' kuritsa ili ryba? — MNYE NUZH-na MNO-ga BYEL-ka YEST KU-ri-tsa I-li RY-ba — Ho bisogno di molte proteine. C'è pollo o pesce?*  
-**Официант:** Есть отличная рыба с рисом. *Est' otlichnaia ryba s risom. — YEST at-LYECH-na-ya RY-ba s RI-sam — C'è un'ottima pesce con riso.*  
-**Николо:** Прекрасно! И воду без газа. *Prekrasno! I vodu bez gaza. — pri-KRAS-na i VO-du BYEZ GA-za — Ottimo! E acqua naturale.*  
-**Официант:** Сейчас принесу. Приятного аппетита! *Sejchas prinesu. Prijatnogo appetita! — si-CHAS pri-ni-SU pri-YAT-na-va a-pi-TI-ta — Porto subito. Buon appetito!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Официант | Добрый вечер! Столик на одного? | Dobryj vecher! Stolik na odnogo? | DOB-ryj VYE-chyer STO-lik na ad-NA-go | Buonasera! Tavolo per uno? |
+| Николо | Да, спасибо. Я только что был на тренировке. | Da, spasibo. Ja tol'ko chto byl na trenirovke. | DA spa-SI-ba YA TOL'-ka shto BYL na try-ni-ROF-kye | Sì, grazie. Sono appena stato ad allenarmi. |
+| Официант | В Болонье много спортсменов. Что будете есть? | V Bolon'e mnogo sportsmenov. Chto budete est'? | v ba-LO-nye MNO-ga sport-SMYE-naf SHTO bu-DYE-tye yest | A Bologna ci sono molti atleti. Cosa mangerà? |
+| Николо | Мне нужно много белка. Есть курица или рыба? | Mne nuzhno mnogo belka. Est' kuritsa ili ryba? | MNYE NUZH-na MNO-ga BYEL-ka YEST KU-ri-tsa I-li RY-ba | Ho bisogno di molte proteine. C'è pollo o pesce? |
+| Официант | Есть отличная рыба с рисом. | Est' otlichnaia ryba s risom. | YEST at-LYECH-na-ya RY-ba s RI-sam | C'è un'ottima pesce con riso. |
+| Николо | Прекрасно! И воду без газа. | Prekrasno! I vodu bez gaza. | pri-KRAS-na i VO-du BYEZ GA-za | Ottimo! E acqua naturale. |
+| Официант | Сейчас принесу. Приятного аппетита! | Sejchas prinesu. Prijatnogo appetita! | si-CHAS pri-ni-SU pri-YAT-na-va a-pi-TI-ta | Porto subito. Buon appetito! |
 
 ---
 

@@ -113,18 +113,22 @@ Il perfettivo al presente ha significato di futuro.
 
 ### Dialogo breve: Processo o risultato?
 
-**Николо:** Что ты делаешь? *Chto ty delaesh'? — SHTO ty DYE-la-yesh — Cosa stai facendo?*  
-**Друг:** Я делаю упражнение. *Ja delaiu uprazhnenie. — YA DYE-la-yu u-prazh-NYE-ni-ye — Sto facendo l'esercizio.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Что ты делаешь? | Chto ty delaesh'? | SHTO ty DYE-la-yesh | Cosa stai facendo? |
+| Друг | Я делаю упражнение. | Ja delaiu uprazhnenie. | YA DYE-la-yu u-prazh-NYE-ni-ye | Sto facendo l'esercizio. |
 
 ### Dialogo: A Казани
 
-**Тренер:** Ты тренируешься каждый день? *Ty treniruesh'sja kazhdyj den'? — ty tri-ni-ROO-yesh-sya KAZH-dyj DYEN — Ti alleni ogni giorno?*  
-**Николо:** Да, я тренируюсь каждый день. *Da, ja trenirujus' kazhdyj den'. — DA YA tri-ni-ROO-yus' KAZH-dyj DYEN — Sì, mi alleno ogni giorno.*  
-**Тренер:** А вчера ты потренировался? *A vchera ty potrenirovalsja? — a VCHYE-ra ty po-tri-ni-RO-val-sya — E ieri ti sei allenato?*  
-**Николо:** Да, я потренировался и сделал мост. *Da, ja potrenirovalsja i sdelal most. — DA YA po-tri-ni-RO-val-sya i SDYE-lal MOST — Sì, mi sono allenato e ho fatto il ponte.*  
-**Тренер:** Отлично! Ты будешь тренироваться завтра? *Otlichno! Ty budesh' trenirovat'sja zavtra? — at-LICH-na ty BU-dyesh tri-ni-RO-vat-sya ZAV-tra — Ottimo! Ti allenerai domani?*  
-**Николо:** Да, я буду тренироваться в Сочи. *Da, ja budu trenirovat'sja v Sochi. — DA YA BU-du tri-ni-RO-vat-sya v SO-chi — Sì, mi allenerò a Sochi.*  
-**Тренер:** Потренируйся хорошо! *Potrenirujjsja khorosho! — po-tri-ni-ROOYS'-sya kha-ra-SHO — Allenati bene!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Ты тренируешься каждый день? | Ty treniruesh'sja kazhdyj den'? | ty tri-ni-ROO-yesh-sya KAZH-dyj DYEN | Ti alleni ogni giorno? |
+| Николо | Да, я тренируюсь каждый день. | Da, ja trenirujus' kazhdyj den'. | DA YA tri-ni-ROO-yus' KAZH-dyj DYEN | Sì, mi alleno ogni giorno. |
+| Тренер | А вчера ты потренировался? | A vchera ty potrenirovalsja? | a VCHYE-ra ty po-tri-ni-RO-val-sya | E ieri ti sei allenato? |
+| Николо | Да, я потренировался и сделал мост. | Da, ja potrenirovalsja i sdelal most. | DA YA po-tri-ni-RO-val-sya i SDYE-lal MOST | Sì, mi sono allenato e ho fatto il ponte. |
+| Тренер | Отлично! Ты будешь тренироваться завтра? | Otlichno! Ty budesh' trenirovat'sja zavtra? | at-LICH-na ty BU-dyesh tri-ni-RO-vat-sya ZAV-tra | Ottimo! Ti allenerai domani? |
+| Николо | Да, я буду тренироваться в Сочи. | Da, ja budu trenirovat'sja v Sochi. | DA YA BU-du tri-ni-RO-vat-sya v SO-chi | Sì, mi allenerò a Sochi. |
+| Тренер | Потренируйся хорошо! | Potrenirujjsja khorosho! | po-tri-ni-ROOYS'-sya kha-ra-SHO | Allenati bene! |
 
 ---
 

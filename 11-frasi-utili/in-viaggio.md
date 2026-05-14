@@ -70,20 +70,24 @@
 
 ### Dialogo breve: Alla reception dell'hotel
 
-**Администратор:** Добро пожаловать! Какой номер? *Dobro pozhalovat'! Kakoj nomer? — dab-RO pa-ZHA-la-vat ka-KOJ NO-mir — Benvenuto! Quale stanza?*  
-**Николо:** Номер тридцать два. Есть ли спортзал в отеле? *Nomer tridtsat' dva. Est' li sportzal v otele? — NO-mir TRIT-tsat' DVA YEST li SPORT-zal v a-TYE-lye — Stanza trentadue. C'è una palestra in hotel?*  
-**Администратор:** Да, на третьем этаже. *Da, na tret'em etazhe. — DA na TRYET'-yem e-TA-zhe — Sì, al terzo piano.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Администратор | Добро пожаловать! Какой номер? | Dobro pozhalovat'! Kakoj nomer? | dab-RO pa-ZHA-la-vat ka-KOJ NO-mir | Benvenuto! Quale stanza? |
+| Николо | Номер тридцать два. Есть ли спортзал в отеле? | Nomer tridtsat' dva. Est' li sportzal v otele? | NO-mir TRIT-tsat' DVA YEST li SPORT-zal v a-TYE-lye | Stanza trentadue. C'è una palestra in hotel? |
+| Администратор | Да, на третьем этаже. | Da, na tret'em etazhe. | DA na TRYET'-yem e-TA-zhe | Sì, al terzo piano. |
 
 ---
 
 ### Dialogo: In viaggio per la gara
 
-**Тренер:** Когда мы прилетаем в Москву? *Kogda my priletaem v Moskvu? — kag-DA MY pri-lye-TA-yem v MASK-vu — Quando arriviamo a Mosca?*  
-**Николо:** Завтра утром. Рейс из Милана. *Zavtra utrom. Rejs iz Milana. — ZAF-tra U-tram RYEJS iz MI-la-na — Domani mattina. Volo da Milano.*  
-**Тренер:** Ты нашёл отель с ковриками? *Ty nashjol otel' s kovrikami? — TY nash-SHOL a-TYEL' s kov-RI-ka-mi — Hai trovato un hotel con tappetini?*  
-**Николо:** Да, и там есть спортзал рядом. *Da, i tam est' sportzal rjadom. — DA i TAM YEST SPORT-zal RYA-dam — Sì, e c'è una palestra vicina.*  
-**Тренер:** Отлично. Завтра важный день — соревнования по гимнастике. *Otlichno. Zavtra vazhnyj den' — sorevnovanija po gimnastike. — at-LYECH-na ZAF-tra VAZH-nyj DYEN sa-ryev-na-VA-ni-ya pa gim-NAS-ti-kye — Ottimo. Domani è un giorno importante — la gara di ginnastica.*  
-**Николо:** Я готов! После прилёта хочу растяжку. *Ja gotov! Posle priljota khochu rastiazhku. — YA ga-TOF POS-lye pri-LYO-ta KHO-chu ras-TYAZH-ku — Sono pronto! Dopo l'arrivo voglio fare stretching.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Когда мы прилетаем в Москву? | Kogda my priletaem v Moskvu? | kag-DA MY pri-lye-TA-yem v MASK-vu | Quando arriviamo a Mosca? |
+| Николо | Завтра утром. Рейс из Милана. | Zavtra utrom. Rejs iz Milana. | ZAF-tra U-tram RYEJS iz MI-la-na | Domani mattina. Volo da Milano. |
+| Тренер | Ты нашёл отель с ковриками? | Ty nashjol otel' s kovrikami? | TY nash-SHOL a-TYEL' s kov-RI-ka-mi | Hai trovato un hotel con tappetini? |
+| Николо | Да, и там есть спортзал рядом. | Da, i tam est' sportzal rjadom. | DA i TAM YEST SPORT-zal RYA-dam | Sì, e c'è una palestra vicina. |
+| Тренер | Отлично. Завтра важный день — соревнования по гимнастике. | Otlichno. Zavtra vazhnyj den' — sorevnovanija po gimnastike. | at-LYECH-na ZAF-tra VAZH-nyj DYEN sa-ryev-na-VA-ni-ya pa gim-NAS-ti-kye | Ottimo. Domani è un giorno importante — la gara di ginnastica. |
+| Николо | Я готов! После прилёта хочу растяжку. | Ja gotov! Posle priljota khochu rastiazhku. | YA ga-TOF POS-lye pri-LYO-ta KHO-chu ras-TYAZH-ku | Sono pronto! Dopo l'arrivo voglio fare stretching. |
 
 ---
 

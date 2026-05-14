@@ -106,17 +106,21 @@ In russo l'eta si esprime con il dativo: "a me (sono) 25 anni"
 
 ### Dialogo breve: Il numero del trenér
 
-**Николо:** Я дам мяч другу. *Ja dam mjach drugu. — YA DAM MYACH DRU-gu — Darò la palla all'amico.*  
-**Друг:** Спасибо! Позвони мне вечером. *Spasibo! Pozvoni mne vecherom. — spa-SI-ba paz-va-NI MNYE VYE-chi-ram — Grazie! Chiamami la sera.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Я дам мяч другу. | Ja dam mjach drugu. | YA DAM MYACH DRU-gu | Darò la palla all'amico. |
+| Друг | Спасибо! Позвони мне вечером. | Spasibo! Pozvoni mne vecherom. | spa-SI-ba paz-va-NI MNYE VYE-chi-ram | Grazie! Chiamami la sera. |
 
 ### Dialogo: A Сочи con la squadra
 
-**Тренер:** Сколько тебе лет, Николо? *Skol'ko tebe let, Nikolo? — SKOL-ka ti-BYE LYET ni-KO-lo — Quanti anni hai, Nikolo?*  
-**Николо:** Мне двадцать лет. *Mne dvadtsat' let. — MNYE DVA-tsat' LYET — Ho vent'anni.*  
-**Тренер:** Тебе нравится гимнастика? *Tebe nravitsja gimnastika? — ti-BYE NRA-vi-tsa gim-NAS-ti-ka — Ti piace la ginnastica?*  
-**Николо:** Да, мне нравится! Но мне холодно в спортзале. *Da, mne nravitsja! No mne cholodno v sportzale. — DA MNYE NRA-vi-tsa no MNYE CHO-lad-na f SPORT-za-lye — Sì, mi piace! Ma ho freddo in palestra.*  
-**Тренер:** Позвони мне завтра. *Pozvoni mne zavtra. — paz-va-NI MNYE ZAV-tra — Chiamami domani.*  
-**Николо:** Хорошо, я помогу другу на брусьях. *Khorosho, ja pomogu drugu na brus'jakh. — kha-ra-SHO YA pa-ma-GU DRU-gu na BRUS-yakh — Bene, aiuterò l'amico alle parallele.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Сколько тебе лет, Николо? | Skol'ko tebe let, Nikolo? | SKOL-ka ti-BYE LYET ni-KO-lo | Quanti anni hai, Nikolo? |
+| Николо | Мне двадцать лет. | Mne dvadtsat' let. | MNYE DVA-tsat' LYET | Ho vent'anni. |
+| Тренер | Тебе нравится гимнастика? | Tebe nravitsja gimnastika? | ti-BYE NRA-vi-tsa gim-NAS-ti-ka | Ti piace la ginnastica? |
+| Николо | Да, мне нравится! Но мне холодно в спортзале. | Da, mne nravitsja! No mne cholodno v sportzale. | DA MNYE NRA-vi-tsa no MNYE CHO-lad-na f SPORT-za-lye | Sì, mi piace! Ma ho freddo in palestra. |
+| Тренер | Позвони мне завтра. | Pozvoni mne zavtra. | paz-va-NI MNYE ZAV-tra | Chiamami domani. |
+| Николо | Хорошо, я помогу другу на брусьях. | Khorosho, ja pomogu drugu na brus'jakh. | kha-ra-SHO YA pa-ma-GU DRU-gu na BRUS-yakh | Bene, aiuterò l'amico alle parallele. |
 
 ---
 

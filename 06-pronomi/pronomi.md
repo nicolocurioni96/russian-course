@@ -122,25 +122,29 @@ Nota: ЧТО si scrive con Ч ma si pronuncia "SHTO"! E una delle eccezioni piu 
 
 ### Dialogo breve: Dimostrativi
 
-**Тренер:** Этот коврик твой? *Etot kovrik tvoj? — E-tat KOV-rik TVOJ? — Questo tappetino è tuo?*  
-**Николо:** Да, это мой коврик. *Da, eto moj kovrik. — DA, E-ta MOJ KOV-rik. — Sì, questo è il mio tappetino.*  
-**Тренер:** А эта перекладина? *A eta perekladina? — A E-ta pyi-ryi-KLA-di-na? — E questa sbarra?*  
-**Николо:** Нет, эта перекладина не моя. *Net, eta perekladina ne moja. — NYET, E-ta pyi-ryi-KLA-di-na NYE ma-YA. — No, questa sbarra non è mia.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Этот коврик твой? | Etot kovrik tvoj? | E-tat KOV-rik TVOJ? | Questo tappetino è tuo? |
+| Николо | Да, это мой коврик. | Da, eto moj kovrik. | DA, E-ta MOJ KOV-rik. | Sì, questo è il mio tappetino. |
+| Тренер | А эта перекладина? | A eta perekladina? | A E-ta pyi-ryi-KLA-di-na? | E questa sbarra? |
+| Николо | Нет, эта перекладина не моя. | Net, eta perekladina ne moja. | NYET, E-ta pyi-ryi-KLA-di-na NYE ma-YA. | No, questa sbarra non è mia. |  
 
 ---
 
 ### Dialogo: Possessivi a Londra
 
-**Иван:** Николо, чей это коврик? *Nikolo, chej eto kovrik? — ni-KO-lo, CHYEJ E-ta KOV-rik? — Nicolò, di chi è questo tappetino?*  
-**Николо:** Это мой коврик. Я из Болоньи. *Eto moj kovrik. Ja iz Bolon'i. — E-ta MOJ KOV-rik. YA iz ba-LON'-yi. — È il mio tappetino. Sono di Bologna.*  
-**Иван:** А где твои брусья? *A gde tvoi brus'ja? — A GDYE tva-I BRUS'-ya? — E dove sono le tue parallele?*  
-**Николо:** Мои брусья там, возле твоей планки. *Moi brus'ja tam, vozle tvoej planki. — ma-I BRUS'-ya TAM, VOZ-lye tva-YEJ PLAN-ki. — Le mie parallele sono lì, vicino alla tua plank.*  
-**Иван:** Понятно. А это бревно — её? *Ponjatno. A eto brevno — jejo? — PON-yat-na. A E-ta BRYEV-na — yi-YO? — Capisco. E questa trave è sua (di lei)?*  
-**Николо:** Нет, это наше бревно. Мы тренируемся вместе. *Net, eto nashe brevno. My trenirujemsja vmeste. — NYET, E-ta NA-she BRYEV-na. MY tryi-ni-ROO-yem-sya VMYE-stye. — No, è la nostra trave. Ci alleniamo insieme.*  
-**Иван:** А их тренер где? *A ich trener gde? — A ICH trye-NYER GDYE? — E dove è il loro allenatore?*  
-**Николо:** Их тренер в Берлине сегодня. *Ich trener v Berline segodnja. — ICH trye-NYER V BYER-li-nye si-VOD-nya. — Il loro allenatore è a Berlino oggi.*  
-**Иван:** Я вижу. Эти упражнения твои? *Ja vizhu. Eti uprazhnenija tvoi? — YA VI-zhu. E-ti u-prazh-NYE-ni-ya tva-I? — Vedo. Questi esercizi sono tuoi?*  
-**Николо:** Да, это мои упражнения на сальто. *Da, eto moi uprazhnenija na sal'to. — DA, E-ta ma-I u-prazh-NYE-ni-ya na SAL'-ta. — Sì, sono i miei esercizi di capriola.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Иван | Николо, чей это коврик? | Nikolo, chej eto kovrik? | ni-KO-lo, CHYEJ E-ta KOV-rik? | Nicolò, di chi è questo tappetino? |
+| Николо | Это мой коврик. Я из Болоньи. | Eto moj kovrik. Ja iz Bolon'i. | E-ta MOJ KOV-rik. YA iz ba-LON'-yi. | È il mio tappetino. Sono di Bologna. |
+| Иван | А где твои брусья? | A gde tvoi brus'ja? | A GDYE tva-I BRUS'-ya? | E dove sono le tue parallele? |
+| Николо | Мои брусья там, возле твоей планки. | Moi brus'ja tam, vozle tvoej planki. | ma-I BRUS'-ya TAM, VOZ-lye tva-YEJ PLAN-ki. | Le mie parallele sono lì, vicino alla tua plank. |
+| Иван | Понятно. А это бревно — её? | Ponjatno. A eto brevno — jejo? | PON-yat-na. A E-ta BRYEV-na — yi-YO? | Capisco. E questa trave è sua (di lei)? |
+| Николо | Нет, это наше бревно. Мы тренируемся вместе. | Net, eto nashe brevno. My trenirujemsja vmeste. | NYET, E-ta NA-she BRYEV-na. MY tryi-ni-ROO-yem-sya VMYE-stye. | No, è la nostra trave. Ci alleniamo insieme. |
+| Иван | А их тренер где? | A ich trener gde? | A ICH trye-NYER GDYE? | E dove è il loro allenatore? |
+| Николо | Их тренер в Берлине сегодня. | Ich trener v Berline segodnja. | ICH trye-NYER V BYER-li-nye si-VOD-nya. | Il loro allenatore è a Berlino oggi. |
+| Иван | Я вижу. Эти упражнения твои? | Ja vizhu. Eti uprazhnenija tvoi? | YA VI-zhu. E-ti u-prazh-NYE-ni-ya tva-I? | Vedo. Questi esercizi sono tuoi? |
+| Николо | Да, это мои упражнения на сальто. | Da, eto moi uprazhnenija na sal'to. | DA, E-ta ma-I u-prazh-NYE-ni-ya na SAL'-ta. | Sì, sono i miei esercizi di capriola. |  
 
 ---
 

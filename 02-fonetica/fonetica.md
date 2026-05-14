@@ -127,20 +127,24 @@ Il segno duro Ъ e raro. Separa la consonante dalla vocale e si trova principalm
 
 ### Dialogo breve: Riduzione vocalica
 
-**Тренер:** Где город? *Gde gorod? — GDYE GO-rat? — Dov'è la città?*  
-**Николо:** Это Москва. Я из Неаполя. *Eto Moskva. Ja iz Neapolja. — E-ta mask-VA. YA iz nye-A-pal-ya. — È Mosca. Sono di Napoli.*  
-**Тренер:** Хорошо! *Chorosho! — cha-ra-SHO! — Bene!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Где город? | Gde gorod? | GDYE GO-rat? | Dov'è la città? |
+| Николо | Это Москва. Я из Неаполя. | Eto Moskva. Ja iz Neapolja. | E-ta mask-VA. YA iz nye-A-pal-ya. | È Mosca. Sono di Napoli. |
+| Тренер | Хорошо! | Chorosho! | cha-ra-SHO! | Bene! |  
 
 ---
 
 ### Dialogo: Consonanti dure и morbide
 
-**Николо:** Где твоя тренировка? *Gde tvoja trenirovka? — GDYE tva-YA tryi-ni-ROF-ka? — Dov'è il tuo allenamento?*  
-**Тренер:** В спортзале в Казани. *V sportzale v Kazani. — V sport-ZA-lye v ka-ZA-ni. — Nella palestra a Kazan.*  
-**Николо:** А в Сочи? Там тоже гимнастика? *A v Sochi? Tam tozhe gimnastika? — A v SO-chi? TAM TO-zhe gim-NA-sti-ka? — E a Sochi? C'è anche ginnastica lì?*  
-**Тренер:** Да, но зима холодная. *Da, no zima kholodnaja. — DA no ZI-ma kha-lad-NA-ya. — Sì, ma l'inverno è freddo.*  
-**Николо:** Я люблю прыжки и мост. *Ja ljublju pryzhki i most. — YA lyub-LYU PRY-zhki i MOST. — Amo i salti e l'arco.*  
-**Тренер:** Отлично! Ты спортсмен. *Otlichno! Ty sportsmen. — at-LYECH-na! TY sport-SMYEN. — Ottimo! Sei un atleta.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Где твоя тренировка? | Gde tvoja trenirovka? | GDYE tva-YA tryi-ni-ROF-ka? | Dov'è il tuo allenamento? |
+| Тренер | В спортзале в Казани. | V sportzale v Kazani. | V sport-ZA-lye v ka-ZA-ni. | Nella palestra a Kazan. |
+| Николо | А в Сочи? Там тоже гимнастика? | A v Sochi? Tam tozhe gimnastika? | A v SO-chi? TAM TO-zhe gim-NA-sti-ka? | E a Sochi? C'è anche ginnastica lì? |
+| Тренер | Да, но зима холодная. | Da, no zima kholodnaja. | DA no ZI-ma kha-lad-NA-ya. | Sì, ma l'inverno è freddo. |
+| Николо | Я люблю прыжки и мост. | Ja ljublju pryzhki i most. | YA lyub-LYU PRY-zhki i MOST. | Amo i salti e l'arco. |
+| Тренер | Отлично! Ты спортсмен. | Otlichno! Ty sportsmen. | at-LYECH-na! TY sport-SMYEN. | Ottimo! Sei un atleta. |  
 
 ---
 

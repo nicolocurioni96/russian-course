@@ -143,22 +143,26 @@ Come dire i prezzi:
 
 ### Dialogo breve: Orario di allenamento
 
-**Николо:** Который час? *Kotoryj chas? — ka-TO-ryj CHAS? — Che ora è?*  
-**Тренер:** Семь утра. Тренировка начинается! *Sem' utra. Trenirovka nachinajetsja! — SYEM U-tra. tryi-ni-ROF-ka na-chi-NA-yet-sya! — Le sette di mattina. L'allenamento inizia!*  
-**Николо:** Хорошо, я готов! *Chorosho, ja gotov! — cha-ra-SHO, YA ga-TOF! — Bene, sono pronto!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Который час? | Kotoryj chas? | ka-TO-ryj CHAS? | Che ora è? |
+| Тренер | Семь утра. Тренировка начинается! | Sem' utra. Trenirovka nachinajetsja! | SYEM U-tra. tryi-ni-ROF-ka na-chi-NA-yet-sya! | Le sette di mattina. L'allenamento inizia! |
+| Николо | Хорошо, я готов! | Chorosho, ja gotov! | cha-ra-SHO, YA ga-TOF! | Bene, sono pronto! |  
 
 ---
 
 ### Dialogo: Abbonamento e ripetizioni
 
-**Администратор:** Сколько стоит абонемент? *Skol'ko stoit abonement? — SKOL-ka STO-it a-bo-NYE-ment? — Quanto costa l'abbonamento?*  
-**Николо:** Тысяча рублей в месяц. *Tysjacha rublej v mesjats. — TY-sya-cha ru-BLYÈJ V MYE-syats. — Mille rubli al mese.*  
-**Администратор:** Сколько тебе лет? *Skol'ko tebe let? — SKOL-ka tye-BYE LYET? — Quanti anni hai?*  
-**Николо:** Мне двадцать четыре года. Я из Вероны. *Mne dvadtsat' chetyre goda. Ja iz Verony. — MNYE DVA-tsat chi-TY-ri ga-DA. YA iz VYE-ra-ny. — Ho ventiquattro anni. Sono di Verona.*  
-**Администратор:** Отлично! Сколько подходов делаешь? *Otlichno! Skol'ko podchodov delajesh'? — at-LYECH-na! SKOL-ka pad-KHO-daf di-LA-yesh? — Ottimo! Quante serie fai?*  
-**Николо:** Десять подходов по двадцать отжиманий. *Desjat' podchodov po dvadtsat' otzhimanij. — DYÈ-syat pad-KHO-daf po DVA-tsat at-zhi-MA-nij. — Dieci serie di venti flessioni.*  
-**Администратор:** Сильно! И сколько минут планка? *Sil'no! I skol'ko minut planka? — SIL'-na! i SKOL-ka mi-NUT PLAN-ka? — Forte! E quanti minuti di plank?*  
-**Николо:** Три минуты. Потом сальто и растяжка. *Tri minuty. Potom sal'to i rastyazhka. — TRI mi-NOO-ty. PO-tam SAL'-ta i ras-TYA-zhka. — Tre minuti. Poi capriola e stretching.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Администратор | Сколько стоит абонемент? | Skol'ko stoit abonement? | SKOL-ka STO-it a-bo-NYE-ment? | Quanto costa l'abbonamento? |
+| Николо | Тысяча рублей в месяц. | Tysjacha rublej v mesjats. | TY-sya-cha ru-BLYÈJ V MYE-syats. | Mille rubli al mese. |
+| Администратор | Сколько тебе лет? | Skol'ko tebe let? | SKOL-ka tye-BYE LYET? | Quanti anni hai? |
+| Николо | Мне двадцать четыре года. Я из Вероны. | Mne dvadtsat' chetyre goda. Ja iz Verony. | MNYE DVA-tsat chi-TY-ri ga-DA. YA iz VYE-ra-ny. | Ho ventiquattro anni. Sono di Verona. |
+| Администратор | Отлично! Сколько подходов делаешь? | Otlichno! Skol'ko podchodov delajesh'? | at-LYECH-na! SKOL-ka pad-KHO-daf di-LA-yesh? | Ottimo! Quante serie fai? |
+| Николо | Десять подходов по двадцать отжиманий. | Desjat' podchodov po dvadtsat' otzhimanij. | DYÈ-syat pad-KHO-daf po DVA-tsat at-zhi-MA-nij. | Dieci serie di venti flessioni. |
+| Администратор | Сильно! И сколько минут планка? | Sil'no! I skol'ko minut planka? | SIL'-na! i SKOL-ka mi-NUT PLAN-ka? | Forte! E quanti minuti di plank? |
+| Николо | Три минуты. Потом сальто и растяжка. | Tri minuty. Potom sal'to i rastyazhka. | TRI mi-NOO-ty. PO-tam SAL'-ta i ras-TYA-zhka. | Tre minuti. Poi capriola e stretching. |  
 
 ---
 

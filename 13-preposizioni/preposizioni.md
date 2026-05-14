@@ -117,20 +117,24 @@ Eccezioni importanti dove si usa НА invece di В:
 
 ### Dialogo breve: В or На?
 
-**Николо:** Я иду в спортзал. *Ja idu v sportzal. — YA i-DU f SPORT-zal — Vado in palestra.*  
-**Друг:** А я уже в спортзале. *A ja uzhe v sportzale. — a YA U-zhe f SPORT-za-lye — E io sono già in palestra.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Я иду в спортзал. | Ja idu v sportzal. | YA i-DU f SPORT-zal | Vado in palestra. |
+| Друг | А я уже в спортзале. | A ja uzhe v sportzale. | a YA U-zhe f SPORT-za-lye | E io sono già in palestra. |
 
 ### Dialogo: Direzione e posizione a Париже
 
-**Николо:** Куда ты идёшь? *Kuda ty idjosh'? — ku-DA ty i-DYOSH — Dove vai?*  
-**Друг:** Я иду на бревно. *Ja idu na brevno. — YA i-DU na BRYEV-na — Vado sulla trave.*  
-**Николо:** Ты сейчас на бревне? *Ty sejchas na brevne? — ty SYEY-chas na BRYEV-nye — Sei sulla trave adesso?*  
-**Друг:** Нет, я ещё в раздевалке. *Net, ja eshchjo v razdevalke. — NYET YA YESH-cho v raz-di-VAL-kye — No, sono ancora negli spogliatoi.*  
-**Николо:** С кем ты тренируешься? *S kem ty treniruesh'sja? — s KYEM ty tri-ni-ROO-yesh-sya — Con chi ti alleni?*  
-**Друг:** С другом из Парижа. *S drugom iz Parizha. — z DRU-gam iz PA-ri-zha — Con un amico di Parigi.*  
-**Николо:** Без коврика можно? *Bez kovrika mozhno? — BYEZ kov-RI-ka MOZH-na — Senza tappetino si può?*  
-**Друг:** Нет, без коврика нельзя. *Net, bez kovrika nel'zja. — NYET BYEZ kov-RI-ka nil-ZYA — No, senza tappetino non si può.*  
-**Николо:** Я иду к тренеру. *Ja idu k treneru. — YA i-DU k TRE-nye-ru — Vado dall'allenatore.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Куда ты идёшь? | Kuda ty idjosh'? | ku-DA ty i-DYOSH | Dove vai? |
+| Друг | Я иду на бревно. | Ja idu na brevno. | YA i-DU na BRYEV-na | Vado sulla trave. |
+| Николо | Ты сейчас на бревне? | Ty sejchas na brevne? | ty SYEY-chas na BRYEV-nye | Sei sulla trave adesso? |
+| Друг | Нет, я ещё в раздевалке. | Net, ja eshchjo v razdevalke. | NYET YA YESH-cho v raz-di-VAL-kye | No, sono ancora negli spogliatoi. |
+| Николо | С кем ты тренируешься? | S kem ty treniruesh'sja? | s KYEM ty tri-ni-ROO-yesh-sya | Con chi ti alleni? |
+| Друг | С другом из Парижа. | S drugom iz Parizha. | z DRU-gam iz PA-ri-zha | Con un amico di Parigi. |
+| Николо | Без коврика можно? | Bez kovrika mozhno? | BYEZ kov-RI-ka MOZH-na | Senza tappetino si può? |
+| Друг | Нет, без коврика нельзя. | Net, bez kovrika nel'zja. | NYET BYEZ kov-RI-ka nil-ZYA | No, senza tappetino non si può. |
+| Николо | Я иду к тренеру. | Ja idu k treneru. | YA i-DU k TRE-nye-ru | Vado dall'allenatore. |
 
 ---
 

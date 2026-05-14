@@ -143,20 +143,24 @@ Nota su МОЛОКО: la O non accentata si pronuncia come A. Quindi "moloko" si
 
 ### Dialogo breve: In palestra a Sochi
 
-**Тренер:** Здравствуй! Ты Николо? *Zdravstvuj! Ty Nikolo? — ZDRA-stvuj! TY ni-KO-lo? — Ciao! Sei Nikolo?*  
-**Николо:** Да, я из Рима. *Da, ja iz Rima. — DA ya iz RI-ma. — Sì, sono di Roma.*  
-**Тренер:** Отлично! Это твой коврик. *Otlichno! Eto tvoj kovrik. — at-LYECH-na! E-ta TVOJ KOV-rik. — Ottimo! Questo è il tuo tappetino.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Здравствуй! Ты Николо? | Zdravstvuj! Ty Nikolo? | ZDRA-stvuj! TY ni-KO-lo? | Ciao! Sei Nikolo? |
+| Николо | Да, я из Рима. | Da, ja iz Rima. | DA ya iz RI-ma. | Sì, sono di Roma. |
+| Тренер | Отлично! Это твой коврик. | Otlichno! Eto tvoj kovrik. | at-LYECH-na! E-ta TVOJ KOV-rik. | Ottimo! Questo è il tuo tappetino. |  
 
 ---
 
 ### Dialogo: Alla reception dello sportzal
 
-**Администратор:** Добрый день! Как вас зовут? *Dobryj den'! Kak vas zovut? — DOB-ryj DYEN'! KAK vas za-VUT? — Buongiorno! Come si chiama?*  
-**Николо:** Меня зовут Николо. Я из Милана. *Menja zovut Nikolo. Ja iz Milana. — mi-NYA za-VUT ni-KO-lo. YA iz mi-LA-na. — Mi chiamo Nicolò. Sono di Milano.*  
-**Администратор:** Очень приятно! Вы гимнаст? *Ochen' prijatno! Vy gimnast? — O-chin pri-YAT-na! VY gim-NAST? — Molto piacere! È un ginnasta?*  
-**Николо:** Да, я люблю гимнастику и планку. *Da, ja ljublju gimnastiku i planku. — DA ya lyub-LYU gim-NA-sti-ku i PLAN-ku. — Sì, amo la ginnastica e la plank.*  
-**Администратор:** Супер! Наш спортзал большой. *Super! Nash sportzal bol'shoj. — SU-pyor! NASH sport-ZAL bal-SHOJ. — Super! La nostra palestra è grande.*  
-**Николо:** Я вижу брусья и перекладину. *Ja vizhu brus'ja i perekladimu. — YA VI-zhu BRUS'-ya i pyi-ryi-KLA-di-nu. — Vedo le parallele e la sbarra.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Администратор | Добрый день! Как вас зовут? | Dobryj den'! Kak vas zovut? | DOB-ryj DYEN'! KAK vas za-VUT? | Buongiorno! Come si chiama? |
+| Николо | Меня зовут Николо. Я из Милана. | Menja zovut Nikolo. Ja iz Milana. | mi-NYA za-VUT ni-KO-lo. YA iz mi-LA-na. | Mi chiamo Nicolò. Sono di Milano. |
+| Администратор | Очень приятно! Вы гимнаст? | Ochen' prijatno! Vy gimnast? | O-chin pri-YAT-na! VY gim-NAST? | Molto piacere! È un ginnasta? |
+| Николо | Да, я люблю гимнастику и планку. | Da, ja ljublju gimnastiku i planku. | DA ya lyub-LYU gim-NA-sti-ku i PLAN-ku. | Sì, amo la ginnastica e la plank. |
+| Администратор | Супер! Наш спортзал большой. | Super! Nash sportzal bol'shoj. | SU-pyor! NASH sport-ZAL bal-SHOJ. | Super! La nostra palestra è grande. |
+| Николо | Я вижу брусья и перекладину. | Ja vizhu brus'ja i perekladimu. | YA VI-zhu BRUS'-ya i pyi-ryi-KLA-di-nu. | Vedo le parallele e la sbarra. |  
 
 ---
 

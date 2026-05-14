@@ -118,18 +118,22 @@ Per dire "a gennaio" si usa В + prepositivo: в январе (v janvarje).
 
 ### Dialogo breve: Piacere e allenamento
 
-**Друг:** Ты идёшь бегать завтра? *Ty idjosh' begat' zavtra? — TY i-DYOSH' bye-GAT' ZAF-tra — Vai a correre domani?*  
-**Николо:** Нет, будет дождь. Я тренируюсь дома. *Net, budet dozhd'. Ja trenirujus' doma. — NYET BU-dyet DOSHT YA try-ni-ROO-yus' DO-ma — No, pioverà. Mi alleno a casa.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Друг | Ты идёшь бегать завтра? | Ty idjosh' begat' zavtra? | TY i-DYOSH' bye-GAT' ZAF-tra | Vai a correre domani? |
+| Николо | Нет, будет дождь. Я тренируюсь дома. | Net, budet dozhd'. Ja trenirujus' doma. | NYET BU-dyet DOSHT YA try-ni-ROO-yus' DO-ma | No, pioverà. Mi alleno a casa. |
 
 ---
 
 ### Dialogo: Inverno a Москва
 
-**Коллега:** Какая сегодня погода в Москве? *Kakaja segodnja pogoda v Moskve? — ka-KA-ya si-VOD-nya pa-GO-da v MASK-vye — Com'è il tempo oggi a Mosca?*  
-**Николо:** Холодно, минус десять градусов. *Kholodno, minus desjat' gradusov. — kha-LAD-na MEE-nus DYE-syat' gra-DU-saf — Freddo, meno dieci gradi.*  
-**Коллега:** Ты всё равно идёшь в спортзал? *Ty vsjo ravno idjosh' v sportzal? — TY FSYO RAV-na i-DYOSH' v SPORT-zal — Ci vai comunque in palestra?*  
-**Николо:** Конечно! Зимние тренировки очень важны. *Konechno! Zimnie trenirovki ochen' vazhny. — ka-NYETCH-na ZIM-ni-ye try-ni-ROF-ki O-chin VAZH-ny — Certo! Gli allenamenti invernali sono molto importanti.*  
-**Коллега:** Ты сильный! Я предпочитаю бегать весной. *Ty sil'nyj! Ja predpochitaju begat' vesnoj. — TY SEEL'-nyj YA pred-pa-chi-TA-yu bye-GAT' vyes-NOY — Sei forte! Io preferisco correre in primavera.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Коллега | Какая сегодня погода в Москве? | Kakaja segodnja pogoda v Moskve? | ka-KA-ya si-VOD-nya pa-GO-da v MASK-vye | Com'è il tempo oggi a Mosca? |
+| Николо | Холодно, минус десять градусов. | Kholodno, minus desjat' gradusov. | kha-LAD-na MEE-nus DYE-syat' gra-DU-saf | Freddo, meno dieci gradi. |
+| Коллега | Ты всё равно идёшь в спортзал? | Ty vsjo ravno idjosh' v sportzal? | TY FSYO RAV-na i-DYOSH' v SPORT-zal | Ci vai comunque in palestra? |
+| Николо | Конечно! Зимние тренировки очень важны. | Konechno! Zimnie trenirovki ochen' vazhny. | ka-NYETCH-na ZIM-ni-ye try-ni-ROF-ki O-chin VAZH-ny | Certo! Gli allenamenti invernali sono molto importanti. |
+| Коллега | Ты сильный! Я предпочитаю бегать весной. | Ty sil'nyj! Ja predpochitaju begat' vesnoj. | TY SEEL'-nyj YA pred-pa-chi-TA-yu bye-GAT' vyes-NOY | Sei forte! Io preferisco correre in primavera. |
 
 ---
 

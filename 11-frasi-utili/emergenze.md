@@ -67,21 +67,25 @@ Il numero unico di emergenza e 112 (come in Europa). Funzionano anche: 101 (pomp
 
 ### Dialogo breve: Infortunio alla schiena
 
-**Тренер:** Что случилось, Николо? *Chto sluchilos', Nikolo? — SHTO slu-CHI-las' ni-KO-lo — Cosa è successo, Nikolo?*  
-**Николо:** У меня болит спина после моста. *U menja bolit spina posle mosta. — u mi-NYA ba-LIT SPEE-na POS-lye MO-sta — Mi fa male la schiena dopo il ponte.*  
-**Тренер:** Позвоним врачу. Не двигайся. *Pozvonim vrachu. Ne dvigajsja. — paz-va-NEEM VRA-chu NYE DVI-gay-sya — Chiamiamo il dottore. Non ti muovere.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Тренер | Что случилось, Николо? | Chto sluchilos', Nikolo? | SHTO slu-CHI-las' ni-KO-lo | Cosa è successo, Nikolo? |
+| Николо | У меня болит спина после моста. | U menja bolit spina posle mosta. | u mi-NYA ba-LIT SPEE-na POS-lye MO-sta | Mi fa male la schiena dopo il ponte. |
+| Тренер | Позвоним врачу. Не двигайся. | Pozvonim vrachu. Ne dvigajsja. | paz-va-NEEM VRA-chu NYE DVI-gay-sya | Chiamiamo il dottore. Non ti muovere. |
 
 ---
 
 ### Dialogo: Incidente in palestra a Сочи
 
-**Медсестра:** Где вас больно? *Gde vas bol'no? — GDYE vas BOL'-na — Dove le fa male?*  
-**Николо:** У меня болит рука. Я упал с брусьев. *U menja bolit ruka. Ja upal s brus'ev. — u mi-NYA ba-LIT RU-ka YA u-PAL s BRUS'-yef — Mi fa male il braccio. Sono caduto dalle parallele.*  
-**Медсестра:** Когда это было? *Kogda eto bylo? — kag-DA E-ta BY-la — Quando è successo?*  
-**Николо:** Пять минут назад, в спортзале в Сочи. *Pjat' minut nazad, v sportzale v Sochi. — PYAT' mi-NUT na-ZAD v SPORT-za-lye v SO-chi — Cinque minuti fa, in palestra a Sochi.*  
-**Медсестра:** Нужно поехать в больницу. Вызываю скорую. *Nuzhno poehat' v bol'nitsu. Vyzyvaju skoruju. — NUZH-na pa-YE-khat' v bal'-NEE-tsu VY-zy-va-yu SKO-ru-yu — Bisogna andare in ospedale. Chiamo l'ambulanza.*  
-**Николо:** Спасибо. И я потерял телефон в спортзале. *Spasibo. I ja poterjal telefon v sportzale. — spa-SI-ba i YA pa-ti-RYAL ti-li-FON v SPORT-za-lye — Grazie. E ho perso il telefono in palestra.*  
-**Медсестра:** Мы всё найдём. Сейчас главное — ваша рука. *My vsjo najdjom. Sejchas glavnoe — vasha ruka. — MY FSYO nay-DYOM si-CHAS GLAV-na-ye VA-sha RU-ka — Troveremo tutto. Ora l'importante è il suo braccio.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Медсестра | Где вас больно? | Gde vas bol'no? | GDYE vas BOL'-na | Dove le fa male? |
+| Николо | У меня болит рука. Я упал с брусьев. | U menja bolit ruka. Ja upal s brus'ev. | u mi-NYA ba-LIT RU-ka YA u-PAL s BRUS'-yef | Mi fa male il braccio. Sono caduto dalle parallele. |
+| Медсестра | Когда это было? | Kogda eto bylo? | kag-DA E-ta BY-la | Quando è successo? |
+| Николо | Пять минут назад, в спортзале в Сочи. | Pjat' minut nazad, v sportzale v Sochi. | PYAT' mi-NUT na-ZAD v SPORT-za-lye v SO-chi | Cinque minuti fa, in palestra a Sochi. |
+| Медсестра | Нужно поехать в больницу. Вызываю скорую. | Nuzhno poehat' v bol'nitsu. Vyzyvaju skoruju. | NUZH-na pa-YE-khat' v bal'-NEE-tsu VY-zy-va-yu SKO-ru-yu | Bisogna andare in ospedale. Chiamo l'ambulanza. |
+| Николо | Спасибо. И я потерял телефон в спортзале. | Spasibo. I ja poterjal telefon v sportzale. | spa-SI-ba i YA pa-ti-RYAL ti-li-FON v SPORT-za-lye | Grazie. E ho perso il telefono in palestra. |
+| Медсестра | Мы всё найдём. Сейчас главное — ваша рука. | My vsjo najdjom. Sejchas glavnoe — vasha ruka. | MY FSYO nay-DYOM si-CHAS GLAV-na-ye VA-sha RU-ka | Troveremo tutto. Ora l'importante è il suo braccio. |
 
 ---
 

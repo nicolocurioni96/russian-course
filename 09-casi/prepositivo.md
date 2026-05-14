@@ -90,19 +90,23 @@ Questa e una distinzione fondamentale:
 
 ### Dialogo breve: Dove sei?
 
-**Николо:** Где ты? *Gde ty? — GDYE ty — Dove sei?*  
-**Друг:** Я в спортзале. *Ja v sportzale. — YA f SPORT-za-lye — Sono in palestra.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Где ты? | Gde ty? | GDYE ty | Dove sei? |
+| Друг | Я в спортзале. | Ja v sportzale. | YA f SPORT-za-lye | Sono in palestra. |
 
 ### Dialogo: A Санкт-Петербурге
 
-**Николо:** Где ты сейчас? *Gde ty sejchas? — GDYE ty SYEY-chas — Dove sei adesso?*  
-**Друг:** Я в Санкт-Петербурге. *Ja v Sankt-Peterburge. — YA f SANKT-pi-tyer-BUR-gye — Sono a San Pietroburgo.*  
-**Николо:** Что ты делаешь там? *Chto ty delaesh' tam? — SHTO ty DYE-la-yesh TAM — Cosa fai lì?*  
-**Друг:** Я в спортзале. О чём ты думаешь? *Ja v sportzale. O chjom ty dumaesh'? — YA f SPORT-za-lye a CHYOM ty DU-ma-yesh — Sono in palestra. A cosa pensi?*  
-**Николо:** Я думаю о тренировке. *Ja dumaju o trenirovke. — YA DU-ma-yu a tri-ni-ROF-kye — Penso all'allenamento.*  
-**Друг:** Мы говорим о гимнастике здесь. *My govorim o gimnastike zdes'. — MY ga-va-RIM a gim-NAS-ti-kye ZDYES — Parliamo di ginnastica qui.*  
-**Николо:** Она на бревне? *Ona na brevne? — a-NA na BRYEV-nye — Lei è sulla trave?*  
-**Друг:** Да, она на бревне в Милане. *Da, ona na brevne v Milane. — DA a-NA na BRYEV-nye v mi-LA-nye — Sì, lei è sulla trave a Milano.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Где ты сейчас? | Gde ty sejchas? | GDYE ty SYEY-chas | Dove sei adesso? |
+| Друг | Я в Санкт-Петербурге. | Ja v Sankt-Peterburge. | YA f SANKT-pi-tyer-BUR-gye | Sono a San Pietroburgo. |
+| Николо | Что ты делаешь там? | Chto ty delaesh' tam? | SHTO ty DYE-la-yesh TAM | Cosa fai lì? |
+| Друг | Я в спортзале. О чём ты думаешь? | Ja v sportzale. O chjom ty dumaesh'? | YA f SPORT-za-lye a CHYOM ty DU-ma-yesh | Sono in palestra. A cosa pensi? |
+| Николо | Я думаю о тренировке. | Ja dumaju o trenirovke. | YA DU-ma-yu a tri-ni-ROF-kye | Penso all'allenamento. |
+| Друг | Мы говорим о гимнастике здесь. | My govorim o gimnastike zdes'. | MY ga-va-RIM a gim-NAS-ti-kye ZDYES | Parliamo di ginnastica qui. |
+| Николо | Она на бревне? | Ona na brevne? | a-NA na BRYEV-nye | Lei è sulla trave? |
+| Друг | Да, она на бревне в Милане. | Da, ona na brevne v Milane. | DA a-NA na BRYEV-nye v mi-LA-nye | Sì, lei è sulla trave a Milano. |
 
 ---
 

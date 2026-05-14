@@ -96,18 +96,22 @@
 
 ### Dialogo breve: Come arrivare alla palestra
 
-**Прохожий:** Извините, как пройти до спортзала? *Izvinite, kak projti do sportzala? — iz-vi-NI-tye KAK praj-TI da SPORT-za-la — Mi scusi, come arrivo alla palestra?*  
-**Николо:** Идите прямо, потом налево. Он рядом с парком. *Idite prjamo, potom nalevo. On rjadom s parkom. — i-DI-tye PRYA-ma pa-TOM na-LYE-va ON RYA-dam s PAR-kam — Vada dritto, poi a sinistra. È vicino al parco.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Прохожий | Извините, как пройти до спортзала? | Izvinite, kak projti do sportzala? | iz-vi-NI-tye KAK praj-TI da SPORT-za-la | Mi scusi, come arrivo alla palestra? |
+| Николо | Идите прямо, потом налево. Он рядом с парком. | Idite prjamo, potom nalevo. On rjadom s parkom. | i-DI-tye PRYA-ma pa-TOM na-LYE-va ON RYA-dam s PAR-kam | Vada dritto, poi a sinistra. È vicino al parco. |
 
 ---
 
 ### Dialogo: In bici a San Pietroburgo
 
-**Коллега:** Как ты добираешься до спортзала? *Kak ty dobiraeshsja do sportzala? — KAK TY da-bi-RA-yesh-sya da SPORT-za-la — Come arrivi in palestra?*  
-**Николо:** Я еду на велосипеде через мост. *Ja edu na velosipede cherez most. — YA ye-DU na vi-la-si-PYED-ye CHYE-ryez MOST — Vado in bicicletta attraverso il ponte.*  
-**Коллега:** Это далеко от твоей квартиры? *Eto daleko ot tvoej kvartiry? — E-ta da-li-KO at tva-YEJ kvar-TEE-ry — È lontano dal tuo appartamento?*  
-**Николо:** Нет, около двадцати минут. В Санкт-Петербурге красивые мосты. *Net, okolo dvadtsati minut. V Sankt-Peterburge krasivye mosty. — NYET O-ka-la DVAD-tsa-ti mi-NUT v SANKT-py-tyer-BUR-gye kra-SI-vye MOS-ty — No, circa venti minuti. A San Pietroburgo ci sono ponti bellissimi.*  
-**Коллега:** Я тоже хочу кататься на велосипеде! *Ja tozhe khochu katat'sja na velosipede! — YA TO-zhe KHO-chu ka-TAT-sya na vi-la-si-PYED-ye — Anch'io voglio andare in bicicletta!*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Коллега | Как ты добираешься до спортзала? | Kak ty dobiraeshsja do sportzala? | KAK TY da-bi-RA-yesh-sya da SPORT-za-la | Come arrivi in palestra? |
+| Николо | Я еду на велосипеде через мост. | Ja edu na velosipede cherez most. | YA ye-DU na vi-la-si-PYED-ye CHYE-ryez MOST | Vado in bicicletta attraverso il ponte. |
+| Коллега | Это далеко от твоей квартиры? | Eto daleko ot tvoej kvartiry? | E-ta da-li-KO at tva-YEJ kvar-TEE-ry | È lontano dal tuo appartamento? |
+| Николо | Нет, около двадцати минут. В Санкт-Петербурге красивые мосты. | Net, okolo dvadtsati minut. V Sankt-Peterburge krasivye mosty. | NYET O-ka-la DVAD-tsa-ti mi-NUT v SANKT-py-tyer-BUR-gye kra-SI-vye MOS-ty | No, circa venti minuti. A San Pietroburgo ci sono ponti bellissimi. |
+| Коллега | Я тоже хочу кататься на велосипеде! | Ja tozhe khochu katat'sja na velosipede! | YA TO-zhe KHO-chu ka-TAT-sya na vi-la-si-PYED-ye | Anch'io voglio andare in bicicletta! |
 
 ---
 

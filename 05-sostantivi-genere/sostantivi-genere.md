@@ -123,23 +123,27 @@ Dopo Г, К, Х, Ж, Ч, Ш, Щ non si scrive mai Ы. Si scrive И.
 
 ### Dialogo breve: Genere degli attrezzi
 
-**Николо:** Это брусья? *Eto brus'ja? — E-ta BRUS'-ya? — Sono le parallele?*  
-**Тренер:** Да, это мужской род. *Da, eto muzhskoj rod. — DA, E-ta muzh-SKOJ ROT. — Sì, è genere maschile.*  
-**Николо:** А бревно? *A brevno? — A BRYEV-na? — E la trave?*  
-**Тренер:** Бревно — средний род. *Brevno — srednij rod. — BRYEV-na — SRYED-nij ROT. — La trave è genere neutro.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Николо | Это брусья? | Eto brus'ja? | E-ta BRUS'-ya? | Sono le parallele? |
+| Тренер | Да, это мужской род. | Da, eto muzhskoj rod. | DA, E-ta muzh-SKOJ ROT. | Sì, è genere maschile. |
+| Николо | А бревно? | A brevno? | A BRYEV-na? | E la trave? |
+| Тренер | Бревно — средний род. | Brevno — srednij rod. | BRYEV-na — SRYED-nij ROT. | La trave è genere neutro. |  
 
 ---
 
 ### Dialogo: In palestra a Санкт-Петербурге
 
-**Маша:** Николо, где твоя рука? Ты ушибся? *Nikolo, gde tvoja ruka? Ty ushibsja? — ni-KO-lo, GDYE tva-YA ROO-ka? TY u-SHIB-sya? — Nicolò, dov'è la tua mano? Ti sei fatto male?*  
-**Николо:** Нет, моя рука в порядке. Но моя спина болит. *Net, moja ruka v porjadke. No moja spina bolit. — NYET, ma-YA ROO-ka V pa-R'AT-kye. NO ma-YA SPEE-na ba-LEET. — No, la mia mano è a posto. Ma la mia schiena fa male.*  
-**Маша:** Ты делал мост? *Ty delal most? — TY DYE-lal MOST? — Hai fatto l'arco?*  
-**Николо:** Да, и упражнение на бревне. *Da, i uprazhnenije na brevne. — DA, i u-prazh-NYE-ni-ye na BRYEV-nye. — Sì, e l'esercizio sulla trave.*  
-**Маша:** Понятно. Моё плечо тоже болит после брусьев. *Ponjatno. Mojo plecho tozhe bolit posle brus'jev. — PON-yat-na. ma-YO PLYE-cha TO-zhe ba-LEET POS-lye BRUS'-yev. — Capisco. Anche la mia spalla fa male dopo le parallele.*  
-**Николо:** У тебя сильные руки! *U tebja sil'nyje ruki! — U ti-BYA SIL'-ny-ye ROO-ki! — Hai mani forti!*  
-**Маша:** Спасибо! Твоя нога здоровая? *Spasibo! Tvoja noga zdorovaja? — spa-SI-ba! TVA-ya na-GA zda-RO-va-ya? — Grazie! La tua gamba è sana?*  
-**Николо:** Да, моя нога в порядке. Я из Генуи, там много спорта. *Da, moja noga v porjadke. Ja iz Genui, tam mnogo sporta. — DA, ma-YA na-GA V pa-R'AT-kye. YA iz gye-NOO-i, TAM MNO-ga SPORT-a. — Sì, la mia gamba è a posto. Sono di Genova, lì c'è molto sport.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Маша | Николо, где твоя рука? Ты ушибся? | Nikolo, gde tvoja ruka? Ty ushibsja? | ni-KO-lo, GDYE tva-YA ROO-ka? TY u-SHIB-sya? | Nicolò, dov'è la tua mano? Ti sei fatto male? |
+| Николо | Нет, моя рука в порядке. Но моя спина болит. | Net, moja ruka v porjadke. No moja spina bolit. | NYET, ma-YA ROO-ka V pa-R'AT-kye. NO ma-YA SPEE-na ba-LEET. | No, la mia mano è a posto. Ma la mia schiena fa male. |
+| Маша | Ты делал мост? | Ty delal most? | TY DYE-lal MOST? | Hai fatto l'arco? |
+| Николо | Да, и упражнение на бревне. | Da, i uprazhnenije na brevne. | DA, i u-prazh-NYE-ni-ye na BRYEV-nye. | Sì, e l'esercizio sulla trave. |
+| Маша | Понятно. Моё плечо тоже болит после брусьев. | Ponjatno. Mojo plecho tozhe bolit posle brus'jev. | PON-yat-na. ma-YO PLYE-cha TO-zhe ba-LEET POS-lye BRUS'-yev. | Capisco. Anche la mia spalla fa male dopo le parallele. |
+| Николо | У тебя сильные руки! | U tebja sil'nyje ruki! | U ti-BYA SIL'-ny-ye ROO-ki! | Hai mani forti! |
+| Маша | Спасибо! Твоя нога здоровая? | Spasibo! Tvoja noga zdorovaja? | spa-SI-ba! TVA-ya na-GA zda-RO-va-ya? | Grazie! La tua gamba è sana? |
+| Николо | Да, моя нога в порядке. Я из Генуи, там много спорта. | Da, moja noga v porjadke. Ja iz Genui, tam mnogo sporta. | DA, ma-YA na-GA V pa-R'AT-kye. YA iz gye-NOO-i, TAM MNO-ga SPORT-a. | Sì, la mia gamba è a posto. Sono di Genova, lì c'è molto sport. |  
 
 ---
 

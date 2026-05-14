@@ -72,18 +72,22 @@
 
 ### Dialogo breve: Il tappetino in soggiorno
 
-**Сосед:** У тебя есть коврик в гостиной? *U tebja est' kovrik v gostinoj? — u ti-BYA YEST kov-RIK v ga-STI-noj — Hai un tappetino in soggiorno?*  
-**Николо:** Да, я занимаюсь гимнастикой дома. *Da, ja zanimajus' gimnastikoj doma. — DA YA za-ni-MA-yus' gim-NAS-ti-kaj DO-ma — Sì, faccio ginnastica a casa.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Сосед | У тебя есть коврик в гостиной? | U tebja est' kovrik v gostinoj? | u ti-BYA YEST kov-RIK v ga-STI-noj | Hai un tappetino in soggiorno? |
+| Николо | Да, я занимаюсь гимнастикой дома. | Da, ja zanimajus' gimnastikoj doma. | DA YA za-ni-MA-yus' gim-NAS-ti-kaj DO-ma | Sì, faccio ginnastica a casa. |
 
 ---
 
 ### Dialogo: Allenamento a casa
 
-**Сестра:** Почему ты не идёшь в спортзал? *Pochemu ty ne idjosh' v sportzal? — pa-CHYE-mu TY NYE i-DYOSH' v SPORT-zal — Perché non vai in palestra?*  
-**Николо:** Сегодня я тренируюсь дома. У меня есть коврик и гантели. *Segodnja ja trenirujus' doma. U menja est' kovrik i ganteli. — si-VOD-nya YA try-ni-ROO-yus' DO-ma u mi-NYA YEST kov-RIK i gan-TYE-li — Oggi mi alleno a casa. Ho il tappetino e i manubri.*  
-**Сестра:** Что ты будешь делать? *Chto ty budesh' delat'? — SHTO TY bu-DESH' DYE-lat — Cosa farai?*  
-**Николо:** Пресс, планка и растяжка. Хочешь со мной? *Press, planka i rastiazhka. Khochesh' so mnoj? — PRES PLAN-ka i ras-TYAZH-ka KHO-chesh' sa MNOJ — Addominali, plank e stretching. Vuoi fare con me?*  
-**Сестра:** Да, давай! Только убери стол в гостиной. *Da, davaj! Tol'ko uberi stol v gostinoj. — DA da-VAY TOL'-ka u-BYE-ri STOL v ga-STI-noj — Sì, andiamo! Ma sposta il tavolo in soggiorno.*  
+| Persona | Cirillico | Traslitterazione | Pronuncia | Italiano |
+|---------|-----------|-----------------|-----------|----------|
+| Сестра | Почему ты не идёшь в спортзал? | Pochemu ty ne idjosh' v sportzal? | pa-CHYE-mu TY NYE i-DYOSH' v SPORT-zal | Perché non vai in palestra? |
+| Николо | Сегодня я тренируюсь дома. У меня есть коврик и гантели. | Segodnja ja trenirujus' doma. U menja est' kovrik i ganteli. | si-VOD-nya YA try-ni-ROO-yus' DO-ma u mi-NYA YEST kov-RIK i gan-TYE-li | Oggi mi alleno a casa. Ho il tappetino e i manubri. |
+| Сестра | Что ты будешь делать? | Chto ty budesh' delat'? | SHTO TY bu-DESH' DYE-lat | Cosa farai? |
+| Николо | Пресс, планка и растяжка. Хочешь со мной? | Press, planka i rastiazhka. Khochesh' so mnoj? | PRES PLAN-ka i ras-TYAZH-ka KHO-chesh' sa MNOJ | Addominali, plank e stretching. Vuoi fare con me? |
+| Сестра | Да, давай! Только убери стол в гостиной. | Da, davaj! Tol'ko uberi stol v gostinoj. | DA da-VAY TOL'-ka u-BYE-ri STOL v ga-STI-noj | Sì, andiamo! Ma sposta il tavolo in soggiorno. |
 
 ---
 
