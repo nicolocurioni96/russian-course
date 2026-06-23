@@ -15,6 +15,7 @@ Ogni voce segue questo formato:
 ### Fondamenta
 
 - [01 - Alfabeto](01-alfabeto/alfabeto.md) — Le 33 lettere russe, suoni e confronto con l'italiano
+  - [01b - Lettura Pratica e Mnemonica](01-alfabeto/lettura-pratica.md) — Drill di lettura, lettere ingannevoli, mini-storia
 - [02 - Fonetica](02-fonetica/fonetica.md) — Regole di pronuncia, accento tonico, riduzione vocali
 - [03 - Numeri](03-numeri/numeri.md) — Cardinali, ordinali, date, orari, prezzi
 
@@ -27,6 +28,7 @@ Ogni voce segue questo formato:
 ### Grammatica
 
 - [07 - Verbi Base](07-verbi-base/verbi-base.md) — Presente, le due coniugazioni, verbi comuni
+  - [07b - Drill di Coniugazione](07-verbi-base/coniugazioni-drill.md) — 20 verbi essenziali con frasi e pattern verbo+caso
 - [08 - Aggettivi](08-aggettivi/aggettivi.md) — Accordo, declinazione, comparativi e superlativi
 - [09 - I Sei Casi](09-casi/) — Il cuore della grammatica russa
   - [Nominativo](09-casi/nominativo.md)
@@ -35,6 +37,7 @@ Ogni voce segue questo formato:
   - [Accusativo](09-casi/accusativo.md)
   - [Strumentale](09-casi/strumentale.md)
   - [Prepositivo](09-casi/prepositivo.md)
+  - [09b - Riepilogo dei 6 Casi](09-casi/casi-riepilogo.md) — Tabella maestra, albero decisionale, mini-storia con tutti i casi
 
 ### Vocabolario Tematico
 
@@ -56,6 +59,7 @@ Ogni voce segue questo formato:
 ### Argomenti Avanzati
 
 - [12 - Aspetto Verbale](12-verbi-avanzati/aspetto-verbale.md) — Perfettivo vs imperfettivo
+  - [12b - Coppie Aspettuali Drill](12-verbi-avanzati/coppie-aspettuali.md) — 40 coppie + marcatori temporali + verbi di movimento
 - [13 - Preposizioni](13-preposizioni/preposizioni.md) — Preposizioni e i casi che richiedono
 
 ### Pratica
@@ -63,10 +67,12 @@ Ogni voce segue questo formato:
 - [Esercizi Alfabeto](14-esercizi/esercizi-alfabeto.md)
 - [Esercizi Casi](14-esercizi/esercizi-casi.md)
 - [Esercizi Verbi](14-esercizi/esercizi-verbi.md)
+- [Ripetizione Quotidiana (SRS)](14-esercizi/ripetizione-quotidiana.md) — Routine 15 min/giorno, 30 frasi-pilastro, auto-test mensile
 
 ### Conversazioni Pratiche
 
 - [15 - Conversazioni Pratiche](15-conversazioni/conversazioni-pratiche.md) — Dialoghi con Николо, situazioni reali, ginnastica artistica
+- [15b - Conversazioni Estese](15-conversazioni/conversazioni-estese.md) — 5 dialoghi lunghi con vocabolario chiave e note grammaticali
 
 ---
 
